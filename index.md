@@ -82,40 +82,24 @@ Salloway MK, Deng X, **Ning Y**, Kao SL, Chen Y, Schaefer GO, Chin JJL, Tai ES, 
 ### Conference Presentations
 
 `2019`
-Conditional probit model for robust inference on change in continuous outcomes
-
-*40th Annual Conference of the International Society for Clinical Biostatistics, oral presentation*
+Conditional probit model for robust inference on change in continuous outcomes. *40th Annual Conference of the International Society for Clinical Biostatistics, oral presentation*
 
 `2018`
-Handling ties in ranks in the rank-ordered logit model
-
-*The Joint International Society for Clinical Biostatistics and Australian Statistical Conference 2018, oral presentation*
+Handling ties in ranks in the rank-ordered logit model. *The Joint International Society for Clinical Biostatistics and Australian Statistical Conference 2018, oral presentation*
 
 ### Statistical Software
 
-[The QcDM (Quality care for Diabetes Mellitus) Project](https://github.com/nyilin/QcDM_Project)
+[The QcDM (Quality care for Diabetes Mellitus) Project](https://github.com/nyilin/QcDM_Project). *Author of the R Shiny software and R package that provides a graphical user interfaces for generating glucometrics measurements from point-of-care blood glucose records.*
 
-*Author of the R Shiny software and R package that provides a graphical user interfaces for generating glucometrics measurements from point-of-care blood glucose records.*
+[SamplingDesignTools](https://github.com/nyilin/SamplingDesignTools). *Author of the R package that implements tools for working with various epidemiological study designs for studies of binary and survival outcomes.*
 
-[SamplingDesignTools](https://github.com/nyilin/SamplingDesignTools)
+[DoublingOfCases](https://github.com/nyilin/DoublingOfCases). *Author of the R package that implements the doubling-of-cases approach to estimate relative risk in studies of binary outcomes without assuming rare events.*
 
-*Author of the R package that implements tools for working with various epidemiological study designs for studies of binary and survival outcomes.*
+[cprobit: Conditional Probit Model for Analysing Continuous Outcomes](https://github.com/nyilin/cprobit). *Author and maintainer of the R package that implements the conditional probit model for robust analysis of a change in two measurements of a continuous outcome.*
 
-[DoublingOfCases](https://github.com/nyilin/DoublingOfCases)
+[ROlogit: Fit Rank-Ordered Logit (RO-Logit) Model](https://github.com/nyilin/ROlogit). *Co-author and maintainer of the R package that implements the rank-ordered logit model for robust analysis of continuous outcomes.*
 
-*Author of the R package that implements the doubling-of-cases approach to estimate relative risk in studies of binary outcomes without assuming rare events.*
-
-[cprobit: Conditional Probit Model for Analysing Continuous Outcomes](https://github.com/nyilin/cprobit)
-
-*Author and maintainer of the R package that implements the conditional probit model for robust analysis of a change in two measurements of a continuous outcome.*
-
-[ROlogit: Fit Rank-Ordered Logit (RO-Logit) Model](https://github.com/nyilin/ROlogit)
-
-*Co-author and maintainer of the R package that implements the rank-ordered logit model for robust analysis of continuous outcomes.*
-
-Ezy De-Identifier
-
-*Contributor to the R Shiny application that de-identifies text-based datasets in a medical operations and public health setting. Developed R and RMarkdown script to render PDF validation report for deidentified data.*
+Ezy De-Identifier. *Contributor to the R Shiny application that de-identifies text-based datasets in a medical operations and public health setting. Developed R and RMarkdown script to render PDF validation report for deidentified data.*
 
 
 ## Occupation
