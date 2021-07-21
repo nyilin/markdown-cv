@@ -8,7 +8,6 @@ Data Scientist
 <div id="webaddress">
 Work email: yilin.ning@duke-nus.edu.sg
 | Personal email: ningyilinnyl@gmail.com
-| <a href="https://scholar.google.com/citations?user=T7M0MMIAAAAJ&hl=en">Google Scholar</a>
 </div>
 
 
@@ -42,7 +41,9 @@ Khoo Postdoctoral Fellowship Award, *Duke-NUS Medical School*, Singapore, Singap
 
 
 
-## Publications
+## Selected Publications
+
+See [my Google Scholar page](https://scholar.google.com/citations?user=T7M0MMIAAAAJ&hl=en) for a complete list.
 
 ### Journals
 
@@ -64,17 +65,9 @@ Chen Y, **Ning Y**, Kao SL, Støer NC, Müller-Riemenschneider F, Venkataraman K
 
 Tan CS, Støer NC, Chen Y, Andersson M, **Ning Y**, Wee HL, Khoo EYH, Tai ES, Kao SL, and Reilly M (2019). A stratification approach using logit-based models for confounder adjustment in the study of continuous outcomes. *Statistical Methods in Medical Research*, 28(4):1105-1125. (Impact factor: 2.291)
 
-Tan CS, Støer NC, **Ning Y**, Chen Y, and Reilly M (2018). Quantifying temporal trends of age-standardized rates with odds. *Population Health Metrics*, 16(1):1-9. (Impact factor: 3.328)
-
-Chen Y, Kao SL, Tan M, **Ning Y**, Salloway MK, Wee HL, Venkataraman K, Khoo EYH, Chow YL, Tai ES, and Tan CS (2018). Feasibility of representing adherence to blood glucose monitoring through visualizations: A pilot survey study among healthcare workers. *International Journal of Medical Informatics*, 120:172-178. (Impact factor: 3.025)
-
 Zhao X, **Ning Y**, Chen MI, and Cook AR (2018). Individual and population trajectories of influenza antibody titers over multiple seasons in tropical Singapore. *American Journal of Epidemiology*. 187(1): 135–143. (Impact factor: 4.526)
 
 Luo M, Lim WY, Tan CS, **Ning Y**, Chia KS, van Dam RM, Tang WE, Tan NC, Chen R, Tai ES, and Venkataraman K (2017). Longitudinal trends in HbA1c and associations with comorbidity and all-cause mortality in Asian patients with type 2 diabetes: a cohort study. *Diabetes Research and Clinical Practice*, 133:69-77. (Impact factor: 4.234)
-
-Chen Y, Kao SL, Tai ES, Wee HL, Khoo EYH, **Ning Y**, Salloway MK, Deng X, and Tan CS (2016). Utilizing distributional analytics and electronic records to assess timeliness of inpatient blood glucose monitoring in non-critical care wards. *BMC Medical Research Methodology*, 16(1):1-9. (Impact factor: 3.031)
-
-Lee M, Huang Y, Chong HC, **Ning Y**, Lo NN, and Yeo SJ (2016). Predicting satisfaction for unicompartmental knee arthroplasty patients in an Asian population. *The Journal of Arthroplasty*, 31(8):1706-1710. (Impact factor: 3.709)
 
 Salloway MK, Deng X, **Ning Y**, Kao SL, Chen Y, Schaefer GO, Chin JJL, Tai ES, and Tan CS (2016). A de-identification tool for users in medical operations and public health. In *2016 IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI)*:529-532.
 
