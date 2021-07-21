@@ -106,7 +106,7 @@ Handling ties in ranks in the rank-ordered logit model
 [ROlogit: Fit Rank-Ordered Logit (RO-Logit) Model](https://github.com/nyilin/ROlogit)
 *Co-author and maintainer of the R package that implements the rank-ordered logit model for robust analysis of continuous outcomes.*
 
-[Ezy De-Identifier](http://blog.nus.edu.sg/dasa/ezy-de-identifier/)
+Ezy De-Identifier
 *Contributor to the R Shiny application that de-identifies text-based datasets in a medical operations and public health setting. Developed R and RMarkdown script to render PDF validation report for deidentified data.*
 
 
