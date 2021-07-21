@@ -46,6 +46,12 @@ Khoo Postdoctoral Fellowship Award, *Duke-NUS Medical School*, Singapore, Singap
 
 ### Journals
 
+Yuan H, Xie F, Ong MEH, **Ning Y**, Chee ML, Saffari SE, Abdullah HR, Goldstein BA, Chakraborty B, and Liu N (2021). [AutoScore-Imbalance: An interpretable machine learning tool for development of clinical scores with rare events data](https://arxiv.org/abs/2107.06039). *arXiv preprint* arXiv:2107.06039.
+
+Xie F, **Ning Y**, Yuan H, Goldstein BA, Ong ME, Liu N, and Chakraborty B (2021). [AutoScore-Survival: Developing interpretable machine learning-based time-to-event scores with right-censored survival data](https://arxiv.org/abs/2106.06957). *arXiv preprint* arXiv:2106.06957.
+
+Chen Y, **Ning Y**, Thomas P, Salloway MK, Tan MLS, Tai ES, Kao SL, and Tan CS (2021). [An open source tool to compute measures of inpatient glycemic control: translating from healthcare analytics research to clinical quality improvement](https://doi.org/10.1093/jamiaopen/ooab033), *JAMIA Open*, 4(2): ooab033. 
+
 **Ning Y**, Ho PJ, Støer NC, Lim KK, Wee HL, Hartman M, Reilly M, and Tan CS (2021). A New Procedure to Assess When Estimates from the Cumulative Link Model Can Be Interpreted as Differences for Ordinal Scales in Quality of Life Studies. *Clinical Epidemiology*, 13: 53–65. (Impact factor: 2.942) 
 
 **Ning Y**, Tan CS, Maraki A, Ho PJ, Hodgins S, Comasco E, Nilsson KW, Wagner P, Khoo EYH, Tai ES, Kao SL, Hartman M, Reilly M, and Støer NC (2020). Handling ties in continuous outcomes for confounder adjustment with rank-ordered logit and its application to ordinal outcomes. *Statistical Methods in Medical Research*, 29(2):437-454. (Impact factor: 2.291)
@@ -85,25 +91,23 @@ Handling ties in ranks in the rank-ordered logit model \\
 
 ### Statistical Software
 
-SamplingDesignTools
+[The QcDM (Quality care for Diabetes Mellitus) Project](https://github.com/nyilin/QcDM_Project) \\
+Author of the R Shiny software and R package that provides a graphical user interfaces for generating glucometrics measurements from point-of-care blood glucose records.
+
+[SamplingDesignTools](https://github.com/nyilin/SamplingDesignTools) \\
 Author of the R package that implements tools for working with various epidemiological study designs for studies of binary and survival outcomes.
-Available from https://github.com/nyilin/SamplingDesignTools
 
-DoublingOfCases
+[DoublingOfCases](https://github.com/nyilin/DoublingOfCases) \\
 Author of the R package that implements the doubling-of-cases approach to estimate relative risk in studies of binary outcomes without assuming rare events. 
-Available from https://github.com/nyilin/DoublingOfCases
 
-cprobit: Conditional Probit Model for Analysing Continuous Outcomes
+[cprobit: Conditional Probit Model for Analysing Continuous Outcomes](https://github.com/nyilin/cprobit) \\
 Author and maintainer of the R package that implements the conditional probit model for robust analysis of a change in two measurements of a continuous outcome.
-Available on CRAN from https://CRAN.R-project.org/package=cprobit
 
-ROlogit: Fit Rank-Ordered Logit (RO-Logit) Model
+[ROlogit: Fit Rank-Ordered Logit (RO-Logit) Model](https://github.com/nyilin/ROlogit) \\
 Co-author and maintainer of the R package that implements the rank-ordered logit model for robust analysis of continuous outcomes.
-Available on CRAN from https://CRAN.R-project.org/package=ROlogit
 
-Ezy De-Identifier
+[Ezy De-Identifier](http://blog.nus.edu.sg/dasa/ezy-de-identifier/) \\
 Contributor to the R Shiny application that de-identifies text-based datasets in a medical operations and public health setting. Developed R and RMarkdown script to render PDF validation report for deidentified data.
-Available from http://blog.nus.edu.sg/dasa/ezy-de-identifier/
 
 
 ## Occupation
@@ -118,6 +122,6 @@ __Research Assistant__, Yong Loo Lin School of Medicine, National University of 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2021 -->
 
 
