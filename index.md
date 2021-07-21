@@ -1,86 +1,118 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Yilin Ning's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Yilin Ning
+Data Scientist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+Work email: yilin.ning@duke-nus.edu.sg
+| Personal email: ningyilinnyl@gmail.com
+| <a href="https://scholar.google.com/citations?user=T7M0MMIAAAAJ&hl=en">Google Scholar</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Research Fellow @ Centre for Quantitative Medicine, Duke-NUS Medical School.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Biostatistics.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Explainable AI, Biostatistics, Epidemiology, Statistical programming.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2010-2014`
+__B.Sc. (Hons. 2nd upper) in Statistics, Department of Statistics and Applied Probability, National University of Singapore, Singapore.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2016-2020`
+__PhD, NUS Graduate School, National University of Singapore, Singapore.__
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2021`
+Khoo Postdoctoral Fellowship Award, *Duke-NUS Medical School*, Singapore, Singapore
 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+**Ning Y**, Ho PJ, Støer NC, Lim KK, Wee HL, Hartman M, Reilly M, and Tan CS (2021). A New Procedure to Assess When Estimates from the Cumulative Link Model Can Be Interpreted as Differences for Ordinal Scales in Quality of Life Studies. *Clinical Epidemiology*, 13: 53–65. (Impact factor: 2.942) 
 
-`1669`
-Lectiones opticæ.
+**Ning Y**, Tan CS, Maraki A, Ho PJ, Hodgins S, Comasco E, Nilsson KW, Wagner P, Khoo EYH, Tai ES, Kao SL, Hartman M, Reilly M, and Støer NC (2020). Handling ties in continuous outcomes for confounder adjustment with rank-ordered logit and its application to ordinal outcomes. *Statistical Methods in Medical Research*, 29(2):437-454. (Impact factor: 2.291)
 
-etc. etc. etc.
+**Ning Y**, Støer NC, Ho PJ, Kao SL, Ngiam KY, Khoo EYH, Lee SC, Tai ES, Hartman M, Reilly M, and Tan CS (2020). Robust estimation of the effect of an exposure on the change in a continuous outcome. *BMC Medical Research Methodology*. 2020 Dec;20(1):1-1. (Impact factor: 3.031)
 
-### Patents
+Chen B, Bernard JY, Padmapriya N, **Ning Y**, Cai S, Lança C, Tan KH, Yap F, Chong YS, Shek L, and Godfrey KM (2020). Associations between early-life screen viewing and 24 hour movement behaviours: findings from a longitudinal birth cohort study. *The Lancet Child & Adolescent Health*, 4(3):201-209. (Impact factor: 8.543)
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Chen Y, **Ning Y**, Kao SL, Støer NC, Müller-Riemenschneider F, Venkataraman K, Khoo EYH, Tai ES, and Tan CS (2019). Using marginal standardisation to estimate relative risk without dichotomising continuous outcomes. *BMC Medical Research Methodology*, 19(1):1-14. (Impact factor: 3.031)
+
+Tan CS, Støer NC, Chen Y, Andersson M, **Ning Y**, Wee HL, Khoo EYH, Tai ES, Kao SL, and Reilly M (2019). A stratification approach using logit-based models for confounder adjustment in the study of continuous outcomes. *Statistical Methods in Medical Research*, 28(4):1105-1125. (Impact factor: 2.291)
+
+Tan CS, Støer NC, **Ning Y**, Chen Y, and Reilly M (2018). Quantifying temporal trends of age-standardized rates with odds. *Population Health Metrics*, 16(1):1-9. (Impact factor: 3.328)
+
+Chen Y, Kao SL, Tan M, **Ning Y**, Salloway MK, Wee HL, Venkataraman K, Khoo EYH, Chow YL, Tai ES, and Tan CS (2018). Feasibility of representing adherence to blood glucose monitoring through visualizations: A pilot survey study among healthcare workers. *International Journal of Medical Informatics*, 120:172-178. (Impact factor: 3.025)
+
+Zhao X, **Ning Y**, Chen MI, and Cook AR (2018). Individual and population trajectories of influenza antibody titers over multiple seasons in tropical Singapore. *American Journal of Epidemiology*. 187(1): 135–143. (Impact factor: 4.526)
+
+Luo M, Lim WY, Tan CS, **Ning Y**, Chia KS, van Dam RM, Tang WE, Tan NC, Chen R, Tai ES, and Venkataraman K (2017). Longitudinal trends in HbA1c and associations with comorbidity and all-cause mortality in Asian patients with type 2 diabetes: a cohort study. *Diabetes Research and Clinical Practice*, 133:69-77. (Impact factor: 4.234)
+
+Chen Y, Kao SL, Tai ES, Wee HL, Khoo EYH, **Ning Y**, Salloway MK, Deng X, and Tan CS (2016). Utilizing distributional analytics and electronic records to assess timeliness of inpatient blood glucose monitoring in non-critical care wards. *BMC Medical Research Methodology*, 16(1):1-9. (Impact factor: 3.031)
+
+Lee M, Huang Y, Chong HC, **Ning Y**, Lo NN, and Yeo SJ (2016). Predicting satisfaction for unicompartmental knee arthroplasty patients in an Asian population. *The Journal of Arthroplasty*, 31(8):1706-1710. (Impact factor: 3.709)
+
+Salloway MK, Deng X, **Ning Y**, Kao SL, Chen Y, Schaefer GO, Chin JJL, Tai ES, and Tan CS (2016). A de-identification tool for users in medical operations and public health. In *2016 IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI)*:529-532.
+
+
+### Conference Presentations
+
+`2019`
+Conditional probit model for robust inference on change in continuous outcomes \\
+*40th Annual Conference of the International Society for Clinical Biostatistics, oral presentation*
+
+`2018`
+Handling ties in ranks in the rank-ordered logit model \\
+*The Joint International Society for Clinical Biostatistics and Australian Statistical Conference 2018, oral presentation*
+
+### Statistical Software
+
+SamplingDesignTools
+Author of the R package that implements tools for working with various epidemiological study designs for studies of binary and survival outcomes.
+Available from https://github.com/nyilin/SamplingDesignTools
+
+DoublingOfCases
+Author of the R package that implements the doubling-of-cases approach to estimate relative risk in studies of binary outcomes without assuming rare events. 
+Available from https://github.com/nyilin/DoublingOfCases
+
+cprobit: Conditional Probit Model for Analysing Continuous Outcomes
+Author and maintainer of the R package that implements the conditional probit model for robust analysis of a change in two measurements of a continuous outcome.
+Available on CRAN from https://CRAN.R-project.org/package=cprobit
+
+ROlogit: Fit Rank-Ordered Logit (RO-Logit) Model
+Co-author and maintainer of the R package that implements the rank-ordered logit model for robust analysis of continuous outcomes.
+Available on CRAN from https://CRAN.R-project.org/package=ROlogit
+
+Ezy De-Identifier
+Contributor to the R Shiny application that de-identifies text-based datasets in a medical operations and public health setting. Developed R and RMarkdown script to render PDF validation report for deidentified data.
+Available from http://blog.nus.edu.sg/dasa/ezy-de-identifier/
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2020`
+__Postdoctoral research assistant__, Saw Swee Hock School of Public Health, National University of Singapore & Department of Medical Epidemiology and Biostatistics, Karolinska Institutet
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2014-2016`
+__Research Assistant__, Yong Loo Lin School of Medicine, National University of Singapore, Singapore
 
 
 
