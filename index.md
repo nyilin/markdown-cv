@@ -50,7 +50,7 @@ Yuan H, Xie F, Ong MEH, **Ning Y**, Chee ML, Saffari SE, Abdullah HR, Goldstein 
 
 Xie F, **Ning Y**, Yuan H, Goldstein BA, Ong ME, Liu N, and Chakraborty B (2021). [AutoScore-Survival: Developing interpretable machine learning-based time-to-event scores with right-censored survival data](https://arxiv.org/abs/2106.06957). *arXiv preprint* arXiv:2106.06957.
 
-Chen Y, **Ning Y**, Thomas P, Salloway MK, Tan MLS, Tai ES, Kao SL, and Tan CS (2021). [An open source tool to compute measures of inpatient glycemic control: translating from healthcare analytics research to clinical quality improvement](https://doi.org/10.1093/jamiaopen/ooab033), *JAMIA Open*, 4(2): ooab033. 
+Chen Y#, **Ning Y**#, Thomas P, Salloway MK, Tan MLS, Tai ES, Kao SL, and Tan CS (2021). [An open source tool to compute measures of inpatient glycemic control: translating from healthcare analytics research to clinical quality improvement](https://doi.org/10.1093/jamiaopen/ooab033), *JAMIA Open*, 4(2): ooab033. (#: equal contribution)
 
 **Ning Y**, Ho PJ, Støer NC, Lim KK, Wee HL, Hartman M, Reilly M, and Tan CS (2021). A New Procedure to Assess When Estimates from the Cumulative Link Model Can Be Interpreted as Differences for Ordinal Scales in Quality of Life Studies. *Clinical Epidemiology*, 13: 53–65. (Impact factor: 2.942) 
 
@@ -82,32 +82,32 @@ Salloway MK, Deng X, **Ning Y**, Kao SL, Chen Y, Schaefer GO, Chin JJL, Tai ES, 
 ### Conference Presentations
 
 `2019`
-Conditional probit model for robust inference on change in continuous outcomes \\
+Conditional probit model for robust inference on change in continuous outcomes
 *40th Annual Conference of the International Society for Clinical Biostatistics, oral presentation*
 
 `2018`
-Handling ties in ranks in the rank-ordered logit model \\
+Handling ties in ranks in the rank-ordered logit model
 *The Joint International Society for Clinical Biostatistics and Australian Statistical Conference 2018, oral presentation*
 
 ### Statistical Software
 
-[The QcDM (Quality care for Diabetes Mellitus) Project](https://github.com/nyilin/QcDM_Project) \\
-Author of the R Shiny software and R package that provides a graphical user interfaces for generating glucometrics measurements from point-of-care blood glucose records.
+[The QcDM (Quality care for Diabetes Mellitus) Project](https://github.com/nyilin/QcDM_Project)
+*Author of the R Shiny software and R package that provides a graphical user interfaces for generating glucometrics measurements from point-of-care blood glucose records.*
 
-[SamplingDesignTools](https://github.com/nyilin/SamplingDesignTools) \\
-Author of the R package that implements tools for working with various epidemiological study designs for studies of binary and survival outcomes.
+[SamplingDesignTools](https://github.com/nyilin/SamplingDesignTools)
+*Author of the R package that implements tools for working with various epidemiological study designs for studies of binary and survival outcomes.*
 
-[DoublingOfCases](https://github.com/nyilin/DoublingOfCases) \\
-Author of the R package that implements the doubling-of-cases approach to estimate relative risk in studies of binary outcomes without assuming rare events. 
+[DoublingOfCases](https://github.com/nyilin/DoublingOfCases)
+*Author of the R package that implements the doubling-of-cases approach to estimate relative risk in studies of binary outcomes without assuming rare events.*
 
-[cprobit: Conditional Probit Model for Analysing Continuous Outcomes](https://github.com/nyilin/cprobit) \\
-Author and maintainer of the R package that implements the conditional probit model for robust analysis of a change in two measurements of a continuous outcome.
+[cprobit: Conditional Probit Model for Analysing Continuous Outcomes](https://github.com/nyilin/cprobit)
+*Author and maintainer of the R package that implements the conditional probit model for robust analysis of a change in two measurements of a continuous outcome.*
 
-[ROlogit: Fit Rank-Ordered Logit (RO-Logit) Model](https://github.com/nyilin/ROlogit) \\
-Co-author and maintainer of the R package that implements the rank-ordered logit model for robust analysis of continuous outcomes.
+[ROlogit: Fit Rank-Ordered Logit (RO-Logit) Model](https://github.com/nyilin/ROlogit)
+*Co-author and maintainer of the R package that implements the rank-ordered logit model for robust analysis of continuous outcomes.*
 
-[Ezy De-Identifier](http://blog.nus.edu.sg/dasa/ezy-de-identifier/) \\
-Contributor to the R Shiny application that de-identifies text-based datasets in a medical operations and public health setting. Developed R and RMarkdown script to render PDF validation report for deidentified data.
+[Ezy De-Identifier](http://blog.nus.edu.sg/dasa/ezy-de-identifier/)
+*Contributor to the R Shiny application that de-identifies text-based datasets in a medical operations and public health setting. Developed R and RMarkdown script to render PDF validation report for deidentified data.*
 
 
 ## Occupation
