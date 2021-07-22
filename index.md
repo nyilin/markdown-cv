@@ -97,7 +97,7 @@ Ezy De-Identifier. *Contributor to the R Shiny application that de-identifies te
 
 ## Occupation
 
-`2020`
+`2021-present`
 __Postdoctoral research assistant__, Saw Swee Hock School of Public Health, National University of Singapore & Department of Medical Epidemiology and Biostatistics, Karolinska Institutet
 
 `2014-2016`
