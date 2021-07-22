@@ -67,7 +67,6 @@ Chen B, Bernard JY, Padmapriya N, **Ning Y**, Cai S, Lança C, Tan KH, Yap F, Ch
 Chen Y, **Ning Y**, Kao SL, Støer NC, Müller-Riemenschneider F, Venkataraman K, Khoo EYH, Tai ES, and Tan CS (2019). [Using marginal standardisation to estimate relative risk without dichotomising continuous outcomes](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-019-0778-9). *BMC Medical Research Methodology*, 19(1):1-14. (Impact factor: 3.031)
 
 Tan CS, Støer NC, Chen Y, Andersson M, **Ning Y**, Wee HL, Khoo EYH, Tai ES, Kao SL, and Reilly M (2019). [A stratification approach using logit-based models for confounder adjustment in the study of continuous outcomes](https://journals.sagepub.com/doi/abs/10.1177/0962280217747309?journalCode=smma). *Statistical Methods in Medical Research*, 28(4):1105-1125. (Impact factor: 2.291)
-- R package: [ROlogit: Fit Rank-Ordered Logit (RO-Logit) Model](https://github.com/nyilin/ROlogit)
 
 Zhao X, **Ning Y**, Chen MI, and Cook AR (2018). [Individual and population trajectories of influenza antibody titers over multiple seasons in tropical Singapore](https://academic.oup.com/aje/article/187/1/135/3896092). *American Journal of Epidemiology*. 187(1): 135–143. (Impact factor: 4.526)
 
