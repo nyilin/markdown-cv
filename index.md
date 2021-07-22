@@ -3,7 +3,7 @@ layout: cv
 title: Yilin Ning's CV
 ---
 # Yilin Ning
-Data Scientist
+Biostatistician, Data Scientist
 
 <div id="webaddress">
 Work email: yilin.ning@duke-nus.edu.sg
