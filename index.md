@@ -90,7 +90,7 @@ Handling ties in ranks in the rank-ordered logit model. *The Joint International
 [DoublingOfCases](https://github.com/nyilin/DoublingOfCases). *Author of the R package that implements the doubling-of-cases approach to estimate relative risk in studies of binary outcomes without assuming rare events.*
 
 
-## Occupation
+## Research Experience
 
 `2021-present`
 __Postdoctoral research assistant__, Saw Swee Hock School of Public Health, National University of Singapore & Department of Medical Epidemiology and Biostatistics, Karolinska Institutet
@@ -98,7 +98,14 @@ __Postdoctoral research assistant__, Saw Swee Hock School of Public Health, Nati
 `2014-2016`
 __Research Assistant__, Yong Loo Lin School of Medicine, National University of Singapore, Singapore
 
+## Teaching Experience
 
+`May 2019`
+__Lecturer__, Introduction to R Commander, Saw Swee Hock School of Public Health, National University of Singapore
+
+`Sep 2018`
+__Tutor__, [StatisticAlps 2018, 8th edition: Extended use of regression models for new epidemiological designs and
+analyses](https://www.summerschoolbicocca.com/statisticalps2018.php), Bicocca Summer School, University of Milano-Bicocca
 
 <!-- ### Footer
 
