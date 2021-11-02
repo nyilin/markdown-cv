@@ -47,6 +47,8 @@ See [my Google Scholar page](https://scholar.google.com/citations?user=T7M0MMIAA
 
 ### Journals
 
+Ning Y, Ong MEH, Chakraborty B, Goldstein BA, Ting DSW, Vaughan R, and Liu N (2021).[Shapley variable importance clouds for interpretable machine learning](https://arxiv.org/abs/2110.02484). *arXiv preprint* arXiv:arXiv:2110.02484.
+
 Yuan H, Xie F, Ong MEH, **Ning Y**, Chee ML, Saffari SE, Abdullah HR, Goldstein BA, Chakraborty B, and Liu N (2021). [AutoScore-Imbalance: An interpretable machine learning tool for development of clinical scores with rare events data](https://arxiv.org/abs/2107.06039). *arXiv preprint* arXiv:2107.06039.
 
 Xie F, **Ning Y**, Yuan H, Goldstein BA, Ong ME, Liu N, and Chakraborty B (2021). [AutoScore-Survival: Developing interpretable machine learning-based time-to-event scores with right-censored survival data](https://arxiv.org/abs/2106.06957). *arXiv preprint* arXiv:2106.06957.
