@@ -85,6 +85,9 @@ Salloway MK, Deng X, **Ning Y**, Kao SL, Chen Y, Schaefer GO, Chin JJL, Tai ES, 
 
 ### Conference Presentations
 
+`2021`
+Weighted analyses of survival outcomes under complex study designs: An R implementation. *14th International Conference of the ERCIM WG on Computational and Methodological Statistics, invited oral presentation*
+
 `2019`
 Conditional probit model for robust inference on change in continuous outcomes. *40th Annual Conference of the International Society for Clinical Biostatistics, oral presentation*
 
