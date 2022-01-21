@@ -47,6 +47,9 @@ See [my Google Scholar page](https://scholar.google.com/citations?user=T7M0MMIAA
 
 ### Journals
 
+`2022`
+**Ning Y**, Li S, Ong ME, Xie F, Chakraborty B, Ting DS, Liu N (2022). [A novel interpretable machine learning system to generate clinical risk scores: An application for predicting early mortality or unplanned readmission in a retrospective cohort study](https://arxiv.org/abs/2201.03291). *arXiv preprint* arXiv:2201.03291. 
+
 `2021`
 **Ning Y**, Ong MEH, Chakraborty B, Goldstein BA, Ting DSW, Vaughan R, and Liu N (2021). [Shapley variable importance clouds for interpretable machine learning](https://arxiv.org/abs/2110.02484). *arXiv preprint* arXiv:arXiv:2110.02484.
 
