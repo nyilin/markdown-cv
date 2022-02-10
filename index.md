@@ -28,10 +28,10 @@ Explainable AI, Biostatistics, Epidemiology, Statistical programming.
 ## Education
 
 `2016-2020`
-__PhD, NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore, Singapore.__
+__PhD, [NUS Graduate School for Integrative Sciences and Engineering](https://isep.nus.edu.sg), National University of Singapore, Singapore.__
 
 `2010-2014`
-__B.Sc. (Hons. 2nd upper) in Statistics, Department of Statistics and Applied Probability, National University of Singapore, Singapore.__
+__B.Sc. (Hons. 2nd upper) in Statistics, [Department of Statistics and Applied Probability](https://www.stat.nus.edu.sg), National University of Singapore, Singapore.__
 
 
 ## Awards
