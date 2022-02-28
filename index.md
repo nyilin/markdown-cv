@@ -48,18 +48,19 @@ See [my Google Scholar page](https://scholar.google.com/citations?user=T7M0MMIAA
 ### Journals
 
 `2022`
+**Ning Y**, Ong MEH, Chakraborty B, Goldstein BA, Ting DSW, Vaughan R, and Liu N (2022). [Shapley variable importance cloud for interpretable machine learning](https://doi.org/10.1016/j.patter.2022.100452). *Patterns* 100452.
+- R package: [ShapleyVIC: Shapley Variable Importance Cloud for Interpretable Machine Learning](https://github.com/nliulab/ShapleyVIC)
+
 **Ning Y**, Li S, Ong ME, Xie F, Chakraborty B, Ting DS, Liu N (2022). [A novel interpretable machine learning system to generate clinical risk scores: An application for predicting early mortality or unplanned readmission in a retrospective cohort study](https://arxiv.org/abs/2201.03291). *arXiv preprint* arXiv:2201.03291. 
 
 Liu N, **Ning Y**, Ong ME, Saffari SE, Ryu HH, Kajino K, Lin CH, Karim SA, Rao GR, Ho AF, Lim SL (2022). [Gender disparities among adult recipients of layperson bystander cardiopulmonary resuscitation by location of cardiac arrest in Pan-Asian communities: A registry-based study](https://doi.org/10.1016/j.eclinm.2022.101293). *eClinicalMedicine*, 44:101293.
+- Press release: [Women who suffer from an out-of-hospital cardiac arrest are less likely to receive CPR from a bystander](https://www.duke-nus.edu.sg/about/media/media-releases/women-less-likely-to-receive-cpr-from-bystanders)
 
 Xie F, Yuan H, **Ning Y**, Ong ME, Feng M, Hsu W, Chakraborty B, Liu N (2022). [Deep learning for temporal data representation in electronic health records: A systematic review of challenges and methodologies](https://doi.org/10.1016/j.jbi.2021.103980). *Journal of biomedical informatics*, 126:103980.
 
 Xie F, **Ning Y**, Yuan H, Goldstein BA, Ong ME, Liu N, and Chakraborty B (2022). [AutoScore-Survival: Developing interpretable machine learning-based time-to-event scores with right-censored survival data](https://doi.org/10.1016/j.jbi.2021.103959). *Journal of Biomedical Informatics*, 125:103959.
 
 `2021`
-**Ning Y**, Ong MEH, Chakraborty B, Goldstein BA, Ting DSW, Vaughan R, and Liu N (2021). [Shapley variable importance cloud for interpretable machine learning](https://arxiv.org/abs/2110.02484). *arXiv preprint* arXiv:arXiv:2110.02484.
-- R package: [ShapleyVIC: Shapley Variable Importance Cloud for Interpretable Machine Learning](https://github.com/nliulab/ShapleyVIC)
-
 Yuan H, Xie F, Ong MEH, **Ning Y**, Chee ML, Saffari SE, Abdullah HR, Goldstein BA, Chakraborty B, and Liu N (2021). [AutoScore-Imbalance: An interpretable machine learning tool for development of clinical scores with rare events data](https://arxiv.org/abs/2107.06039). *arXiv preprint* arXiv:2107.06039.
 
 Chen Y#, **Ning Y**#, Thomas P, Salloway MK, Tan MLS, Tai ES, Kao SL, and Tan CS (2021). [An open source tool to compute measures of inpatient glycemic control: translating from healthcare analytics research to clinical quality improvement](https://doi.org/10.1093/jamiaopen/ooab033), *JAMIA Open*, 4(2): ooab033. (#: equal contribution)
