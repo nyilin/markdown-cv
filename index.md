@@ -60,8 +60,9 @@ Xie F, Yuan H, **Ning Y**, Ong ME, Feng M, Hsu W, Chakraborty B, Liu N (2022). [
 
 Xie F, **Ning Y**, Yuan H, Goldstein BA, Ong ME, Liu N, and Chakraborty B (2022). [AutoScore-Survival: Developing interpretable machine learning-based time-to-event scores with right-censored survival data](https://doi.org/10.1016/j.jbi.2021.103959). *Journal of Biomedical Informatics*, 125:103959.
 
+Yuan H, Xie F, Ong MEH, **Ning Y**, Chee ML, Saffari SE, Abdullah HR, Goldstein BA, Chakraborty B, and Liu N (2022). [AutoScore-Imbalance: An interpretable machine learning tool for development of clinical scores with rare events data](https://doi.org/10.1016/j.jbi.2022.104072). *Journal of biomedical informatics*, 129:104072.
+
 `2021`
-Yuan H, Xie F, Ong MEH, **Ning Y**, Chee ML, Saffari SE, Abdullah HR, Goldstein BA, Chakraborty B, and Liu N (2021). [AutoScore-Imbalance: An interpretable machine learning tool for development of clinical scores with rare events data](https://arxiv.org/abs/2107.06039). *arXiv preprint* arXiv:2107.06039.
 
 Chen Y#, **Ning Y**#, Thomas P, Salloway MK, Tan MLS, Tai ES, Kao SL, and Tan CS (2021). [An open source tool to compute measures of inpatient glycemic control: translating from healthcare analytics research to clinical quality improvement](https://doi.org/10.1093/jamiaopen/ooab033), *JAMIA Open*, 4(2): ooab033. (#: equal contribution)
 - R-Shiny app: [The QcDM (Quality care for Diabetes Mellitus) Project](https://github.com/nyilin/QcDM_Project)
@@ -132,6 +133,6 @@ analyses](https://www.summerschoolbicocca.com/statisticalps2018.php), Bicocca Su
 
 <!-- ### Footer
 
-Last updated: Feb 2022 -->
+Last updated: Apr 2022 -->
 
 
