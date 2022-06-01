@@ -62,7 +62,7 @@ Xie F, **Ning Y**, Yuan H, Goldstein BA, Ong ME, Liu N, and Chakraborty B (2022)
 
 Yuan H, Xie F, Ong MEH, **Ning Y**, Chee ML, Saffari SE, Abdullah HR, Goldstein BA, Chakraborty B, and Liu N (2022). [AutoScore-Imbalance: An interpretable machine learning tool for development of clinical scores with rare events data](https://doi.org/10.1016/j.jbi.2022.104072). *Journal of biomedical informatics*, 129:104072.
 
-Liu N, Wnent J, Lee JW, Ning Y, Ho AF, Siddiqui FJ, Lim SL, Chia MY, Tiah L, Mao DR, Gräsner JT (2022). [Validation of the CaRdiac Arrest Survival Score (CRASS) for predicting good neurological outcome after out-of-hospital cardiac arrest in an Asian emergency medical service system](https://doi.org/10.1016/j.resuscitation.2022.04.028). *Resuscitation*. 176:42-50.
+Liu N, Wnent J, Lee JW, **Ning Y**, Ho AF, Siddiqui FJ, Lim SL, Chia MY, Tiah L, Mao DR, Gräsner JT (2022). [Validation of the CaRdiac Arrest Survival Score (CRASS) for predicting good neurological outcome after out-of-hospital cardiac arrest in an Asian emergency medical service system](https://doi.org/10.1016/j.resuscitation.2022.04.028). *Resuscitation*. 176:42-50.
 
 Liu N, Liu M, Chen X, **Ning Y**, Lee JW, Siddiqui FJ, Saffari SE, Ho AFW, Shin SD, Ma MHM, Tanaka H, Ong MEH, PAROS Clinical Research Network Investigators (2022). [Development and validation of an interpretable prehospital return of spontaneous circulation (P-ROSC) score for patients with out-of-hospital cardiac arrest using machine learning: A retrospective study](https://doi.org/10.1016/j.eclinm.2022.101422). *eClinicalMedicine*, 48:101422.
 
