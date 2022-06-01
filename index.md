@@ -53,7 +53,7 @@ See [my Google Scholar page](https://scholar.google.com/citations?user=T7M0MMIAA
 
 **Ning Y**, Li S, Ong ME, Xie F, Chakraborty B, Ting DS, Liu N (2022). [A novel interpretable machine learning system to generate clinical risk scores: An application for predicting early mortality or unplanned readmission in a retrospective cohort study](https://arxiv.org/abs/2201.03291). *arXiv preprint* arXiv:2201.03291. 
 
-Liu N, **Ning Y**, Ong ME, Saffari SE, Ryu HH, Kajino K, Lin CH, Karim SA, Rao GR, Ho AF, Lim SL (2022). [Gender disparities among adult recipients of layperson bystander cardiopulmonary resuscitation by location of cardiac arrest in Pan-Asian communities: A registry-based study](https://doi.org/10.1016/j.eclinm.2022.101293). *eClinicalMedicine*, 44:101293.
+Liu N, **Ning Y**, Ong ME, Saffari SE, Ryu HH, Kajino K, Lin CH, Karim SA, Rao GR, Ho AFW, Lim SL (2022). [Gender disparities among adult recipients of layperson bystander cardiopulmonary resuscitation by location of cardiac arrest in Pan-Asian communities: A registry-based study](https://doi.org/10.1016/j.eclinm.2022.101293). *eClinicalMedicine*, 44:101293.
 - Press release: [Women who suffer from an out-of-hospital cardiac arrest are less likely to receive CPR from a bystander](https://www.duke-nus.edu.sg/about/media/media-releases/women-less-likely-to-receive-cpr-from-bystanders)
 
 Xie F, Yuan H, **Ning Y**, Ong ME, Feng M, Hsu W, Chakraborty B, Liu N (2022). [Deep learning for temporal data representation in electronic health records: A systematic review of challenges and methodologies](https://doi.org/10.1016/j.jbi.2021.103980). *Journal of biomedical informatics*, 126:103980.
@@ -61,6 +61,10 @@ Xie F, Yuan H, **Ning Y**, Ong ME, Feng M, Hsu W, Chakraborty B, Liu N (2022). [
 Xie F, **Ning Y**, Yuan H, Goldstein BA, Ong ME, Liu N, and Chakraborty B (2022). [AutoScore-Survival: Developing interpretable machine learning-based time-to-event scores with right-censored survival data](https://doi.org/10.1016/j.jbi.2021.103959). *Journal of Biomedical Informatics*, 125:103959.
 
 Yuan H, Xie F, Ong MEH, **Ning Y**, Chee ML, Saffari SE, Abdullah HR, Goldstein BA, Chakraborty B, and Liu N (2022). [AutoScore-Imbalance: An interpretable machine learning tool for development of clinical scores with rare events data](https://doi.org/10.1016/j.jbi.2022.104072). *Journal of biomedical informatics*, 129:104072.
+
+Liu N, Wnent J, Lee JW, Ning Y, Ho AF, Siddiqui FJ, Lim SL, Chia MY, Tiah L, Mao DR, Gräsner JT (2022). [Validation of the CaRdiac Arrest Survival Score (CRASS) for predicting good neurological outcome after out-of-hospital cardiac arrest in an Asian emergency medical service system](https://doi.org/10.1016/j.resuscitation.2022.04.028). *Resuscitation*. 176:42-50.
+
+Liu N, Liu M, Chen X, **Ning Y**, Lee JW, Siddiqui FJ, Saffari SE, Ho AFW, Shin SD, Ma MHM, Tanaka H, Ong MEH, PAROS Clinical Research Network Investigators (2022). [Development and validation of an interpretable prehospital return of spontaneous circulation (P-ROSC) score for patients with out-of-hospital cardiac arrest using machine learning: A retrospective study](https://doi.org/10.1016/j.eclinm.2022.101422). *eClinicalMedicine*, 48:101422.
 
 `2021`
 
@@ -133,6 +137,6 @@ analyses](https://www.summerschoolbicocca.com/statisticalps2018.php), Bicocca Su
 
 <!-- ### Footer
 
-Last updated: Apr 2022 -->
+Last updated: Jun 2022 -->
 
 
