@@ -51,7 +51,7 @@ See [my Google Scholar page](https://scholar.google.com/citations?user=T7M0MMIAA
 **Ning Y**, Ong MEH, Chakraborty B, Goldstein BA, Ting DSW, Vaughan R, and Liu N (2022). [Shapley variable importance cloud for interpretable machine learning](https://doi.org/10.1016/j.patter.2022.100452). *Patterns* 3(4):100452.
 - R package: [ShapleyVIC: Shapley Variable Importance Cloud for Interpretable Machine Learning](https://github.com/nliulab/ShapleyVIC)
 
-**Ning Y**, Li S, Ong ME, Xie F, Chakraborty B, Ting DS, Liu N (2022). [A novel interpretable machine learning system to generate clinical risk scores: An application for predicting early mortality or unplanned readmission in a retrospective cohort study](https://arxiv.org/abs/2201.03291). *arXiv preprint* arXiv:2201.03291. 
+**Ning Y**, Li S, Ong ME, Xie F, Chakraborty B, Ting DS, Liu N (2022). [A novel interpretable machine learning system to generate clinical risk scores: An application for predicting early mortality or unplanned readmission in a retrospective cohort study](https://doi.org/10.1371/journal.pdig.0000062). *PLOS Digit Health* 1(6): e0000062. 
 
 Liu N, **Ning Y**, Ong ME, Saffari SE, Ryu HH, Kajino K, Lin CH, Karim SA, Rao GR, Ho AFW, Lim SL (2022). [Gender disparities among adult recipients of layperson bystander cardiopulmonary resuscitation by location of cardiac arrest in Pan-Asian communities: A registry-based study](https://doi.org/10.1016/j.eclinm.2022.101293). *eClinicalMedicine*, 44:101293.
 - Press release: [Women who suffer from an out-of-hospital cardiac arrest are less likely to receive CPR from a bystander](https://www.duke-nus.edu.sg/about/media/media-releases/women-less-likely-to-receive-cpr-from-bystanders)
