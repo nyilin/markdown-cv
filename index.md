@@ -120,13 +120,18 @@ Handling ties in ranks in the rank-ordered logit model. *The Joint International
 
 ## Research Experience
 
-`2021-present`
+`Mar-Oct 2021`
 __Postdoctoral research assistant__, Saw Swee Hock School of Public Health, National University of Singapore & Department of Medical Epidemiology and Biostatistics, Karolinska Institutet
 
 `2014-2016`
 __Research Assistant__, Yong Loo Lin School of Medicine, National University of Singapore, Singapore
 
 ## Teaching Experience
+
+`2022`
+__Lecturer__, [GMS 5204 Data Science + Healthcare](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/GMS5204_TGS-2020507596/), Duke-NUS Medical School
+
+__Lecturer__, [R for Data Science](https://www.singhealthacademy.edu.sg/education-clinical-programmes/Pages/R-for-Data-Science.aspx), SingHealth Academy
 
 `May 2019`
 __Lecturer__, Introduction to R Commander, Saw Swee Hock School of Public Health, National University of Singapore
@@ -137,6 +142,6 @@ analyses](https://www.summerschoolbicocca.com/statisticalps2018.php), Bicocca Su
 
 <!-- ### Footer
 
-Last updated: Jun 2022 -->
+Last updated: Aug 2022 -->
 
 
