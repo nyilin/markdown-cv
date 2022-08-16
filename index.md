@@ -48,17 +48,26 @@ See [my Google Scholar page](https://scholar.google.com/citations?user=T7M0MMIAA
 ### Journals
 
 `2022`
+**Ning Y**, Liu N, Ong MEH (2022). Types of Quantitative Data (Continuous, Categorical, Distributions, Skewness). *Introducing, Designing and Conducting Research for Paramedics*, p.115.
+
 **Ning Y**, Ong MEH, Chakraborty B, Goldstein BA, Ting DSW, Vaughan R, and Liu N (2022). [Shapley variable importance cloud for interpretable machine learning](https://doi.org/10.1016/j.patter.2022.100452). *Patterns* 3(4):100452.
 - R package: [ShapleyVIC: Shapley Variable Importance Cloud for Interpretable Machine Learning](https://github.com/nliulab/ShapleyVIC)
 
 **Ning Y**, Li S, Ong ME, Xie F, Chakraborty B, Ting DS, Liu N (2022). [A novel interpretable machine learning system to generate clinical risk scores: An application for predicting early mortality or unplanned readmission in a retrospective cohort study](https://doi.org/10.1371/journal.pdig.0000062). *PLOS Digit Health* 1(6): e0000062. 
 
+**Ning Y**, Lam A, Reilly M (2022). [Estimating risk ratio from any standard epidemiological design by doubling the cases](https://doi.org/10.1186/s12874-022-01636-3). *BMC Medical Research Methodology*, 22:157.
+- R package: [DoublingOfCases](https://github.com/nyilin/DoublingOfCases)
+
 Liu N, **Ning Y**, Ong ME, Saffari SE, Ryu HH, Kajino K, Lin CH, Karim SA, Rao GR, Ho AFW, Lim SL (2022). [Gender disparities among adult recipients of layperson bystander cardiopulmonary resuscitation by location of cardiac arrest in Pan-Asian communities: A registry-based study](https://doi.org/10.1016/j.eclinm.2022.101293). *eClinicalMedicine*, 44:101293.
 - Press release: [Women who suffer from an out-of-hospital cardiac arrest are less likely to receive CPR from a bystander](https://www.duke-nus.edu.sg/about/media/media-releases/women-less-likely-to-receive-cpr-from-bystanders)
+
+Liu M, **Ning Y**, Yuan H, Ong MEH, Liu N (2022). Balanced background and explanation data are needed in explaining deep learning models with SHAP: An empirical study on clinical decision making. *arXiv preprint*, arXiv:2206.04050
 
 Xie F, Yuan H, **Ning Y**, Ong ME, Feng M, Hsu W, Chakraborty B, Liu N (2022). [Deep learning for temporal data representation in electronic health records: A systematic review of challenges and methodologies](https://doi.org/10.1016/j.jbi.2021.103980). *Journal of biomedical informatics*, 126:103980.
 
 Xie F, **Ning Y**, Yuan H, Goldstein BA, Ong ME, Liu N, and Chakraborty B (2022). [AutoScore-Survival: Developing interpretable machine learning-based time-to-event scores with right-censored survival data](https://doi.org/10.1016/j.jbi.2021.103959). *Journal of Biomedical Informatics*, 125:103959.
+
+Xie F, Liu N, Yan L, **Ning Y**, Lim KK, Gong C, Kwan YH, Ho AF, Low LL, Chakraborty B, Ong MEH (2022). [Development and validation of an interpretable machine learning scoring tool for estimating time to emergency readmissions](https://doi.org/10.1001/jamanetworkopen.2021.18467). *eClinicalMedicine*, 1;45:101315.
 
 Yuan H, Xie F, Ong MEH, **Ning Y**, Chee ML, Saffari SE, Abdullah HR, Goldstein BA, Chakraborty B, and Liu N (2022). [AutoScore-Imbalance: An interpretable machine learning tool for development of clinical scores with rare events data](https://doi.org/10.1016/j.jbi.2022.104072). *Journal of biomedical informatics*, 129:104072.
 
@@ -67,6 +76,8 @@ Liu N, Wnent J, Lee JW, **Ning Y**, Ho AF, Siddiqui FJ, Lim SL, Chia MY, Tiah L,
 Liu N, Liu M, Chen X, **Ning Y**, Lee JW, Siddiqui FJ, Saffari SE, Ho AFW, Shin SD, Ma MHM, Tanaka H, Ong MEH, PAROS Clinical Research Network Investigators (2022). [Development and validation of an interpretable prehospital return of spontaneous circulation (P-ROSC) score for patients with out-of-hospital cardiac arrest using machine learning: A retrospective study](https://doi.org/10.1016/j.eclinm.2022.101422). *eClinicalMedicine*, 48:101422.
 
 `2021`
+
+Saffari SE#, **Ning Y**#, Xie F, Chakraborty B, Volovici V, Vaughan R, Ong MEH, Liu N (2021). AutoScore-Ordinal: An Interpretable Machine Learning Framework for Generating Scoring Models for Ordinal Outcomes. *arXiv preprint*, arXiv:2202.08407. (#: equal contribution)
 
 Chen Y#, **Ning Y**#, Thomas P, Salloway MK, Tan MLS, Tai ES, Kao SL, and Tan CS (2021). [An open source tool to compute measures of inpatient glycemic control: translating from healthcare analytics research to clinical quality improvement](https://doi.org/10.1093/jamiaopen/ooab033), *JAMIA Open*, 4(2): ooab033. (#: equal contribution)
 - R-Shiny app: [The QcDM (Quality care for Diabetes Mellitus) Project](https://github.com/nyilin/QcDM_Project)
@@ -98,6 +109,10 @@ Salloway MK, Deng X, **Ning Y**, Kao SL, Chen Y, Schaefer GO, Chin JJL, Tai ES, 
 
 
 ### Conference Presentations
+`2022`
+A novel interpretable machine learning system to generate clinical risk scores: an application for predicting early mortality or unplanned readmission in a retrospective cohort study. *AMIA 2022 Annual Symposium (2022)*
+
+AutoScore-Ordinal: An interpretable machine learning framework for generating scoring models for ordinal outcomes. *AMIA 2022 Annual Symposium (2022)*
 
 `2021`
 Weighted analyses of survival outcomes under complex study designs: An R implementation. *14th International Conference of the ERCIM WG on Computational and Methodological Statistics, invited oral presentation*
@@ -130,6 +145,8 @@ __Research Assistant__, Yong Loo Lin School of Medicine, National University of 
 
 `2022`
 __Lecturer__, [GMS 5204 Data Science + Healthcare](https://inetapps.nus.edu.sg/sacs/LifeLongLearning/CourseDetails/GMS5204_TGS-2020507596/), Duke-NUS Medical School
+
+__Guest Lecturer__, [Beyond Classic Designs and Analysis for Health Data](https://www.meb.ki.se/biostat/beyond_classic_2022.htm), Karolinska Institutet & National University of Singapore
 
 __Lecturer__, [R for Data Science](https://www.singhealthacademy.edu.sg/education-clinical-programmes/Pages/R-for-Data-Science.aspx), SingHealth Academy
 
