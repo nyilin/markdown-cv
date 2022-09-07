@@ -91,7 +91,7 @@ Chen Y#, **Ning Y**#, Thomas P, Salloway MK, Tan MLS, Tai ES, Kao SL, and Tan CS
 **Ning Y**, Støer NC, Ho PJ, Kao SL, Ngiam KY, Khoo EYH, Lee SC, Tai ES, Hartman M, Reilly M, and Tan CS (2020). [Robust estimation of the effect of an exposure on the change in a continuous outcome](https://doi.org/10.1186/s12874-020-01027-6). *BMC Medical Research Methodology*. 2020 Dec;20(1):1-1. 
 - R package: [cprobit: Conditional Probit Model for Analysing Continuous Outcomes](https://github.com/nyilin/cprobit)
 
-Chen B, Bernard JY, Padmapriya N, **Ning Y**, Cai S, Lança C, Tan KH, Yap F, Chong YS, Shek L, and Godfrey KM (2020). [Associations between early-life screen viewing and 24 hour movement behaviours: findings from a longitudinal birth cohort study](https://doi.org/10.1016/S2352-4642(19)30424-9). *The Lancet Child & Adolescent Health*, 4(3):201-209. 
+Chen B, Bernard JY, Padmapriya N, **Ning Y**, Cai S, Lança C, Tan KH, Yap F, Chong YS, Shek L, Godfrey KM, Saw SM, Chan SY, Eriksson JG, Tan CS, and Müller-Riemenschneider, F (2020). [Associations between early-life screen viewing and 24 hour movement behaviours: findings from a longitudinal birth cohort study](https://doi.org/10.1016/S2352-4642(19)30424-9). *The Lancet Child & Adolescent Health*, 4(3):201-209. 
 
 `2019`
 Chen Y, **Ning Y**, Kao SL, Støer NC, Müller-Riemenschneider F, Venkataraman K, Khoo EYH, Tai ES, and Tan CS (2019). [Using marginal standardisation to estimate relative risk without dichotomising continuous outcomes](https://doi.org/10.1186/s12874-019-0778-9). *BMC Medical Research Methodology*, 19(1):1-14. 
