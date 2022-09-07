@@ -67,7 +67,7 @@ Xie F, Yuan H, **Ning Y**, Ong ME, Feng M, Hsu W, Chakraborty B, Liu N (2022). [
 
 Xie F, **Ning Y**, Yuan H, Goldstein BA, Ong ME, Liu N, and Chakraborty B (2022). [AutoScore-Survival: Developing interpretable machine learning-based time-to-event scores with right-censored survival data](https://doi.org/10.1016/j.jbi.2021.103959). *Journal of Biomedical Informatics*, 125:103959.
 
-Xie F, Liu N, Yan L, **Ning Y**, Lim KK, Gong C, Kwan YH, Ho AF, Low LL, Chakraborty B, Ong MEH (2022). [Development and validation of an interpretable machine learning scoring tool for estimating time to emergency readmissions]([https://doi.org/10.1001/jamanetworkopen.2021.18467](https://doi.org/10.1016/j.eclinm.2022.101315)). *eClinicalMedicine*, 1;45:101315.
+Xie F, Liu N, Yan L, **Ning Y**, Lim KK, Gong C, Kwan YH, Ho AF, Low LL, Chakraborty B, Ong MEH (2022). [Development and validation of an interpretable machine learning scoring tool for estimating time to emergency readmissions](https://doi.org/10.1016/j.eclinm.2022.101315). *eClinicalMedicine*, 1;45:101315.
 
 Yuan H, Xie F, Ong MEH, **Ning Y**, Chee ML, Saffari SE, Abdullah HR, Goldstein BA, Chakraborty B, and Liu N (2022). [AutoScore-Imbalance: An interpretable machine learning tool for development of clinical scores with rare events data](https://doi.org/10.1016/j.jbi.2022.104072). *Journal of biomedical informatics*, 129:104072.
 
