@@ -45,10 +45,13 @@ Khoo Postdoctoral Fellowship Award, *Duke-NUS Medical School*, Singapore, Singap
 
 See [my Google Scholar page](https://scholar.google.com/citations?user=T7M0MMIAAAAJ&hl=en) for a complete list.
 
+### Book Chapter
+`2022`
+**Ning Y**, Liu N, Ong MEH (2022). Types of Quantitative Data (Continuous, Categorical, Distributions, Skewness). *Introducing, Designing and Conducting Research for Paramedics*, p.115. Elsevier Health Sciences.
+
 ### Journals
 
 `2022`
-**Ning Y**, Liu N, Ong MEH (2022). Types of Quantitative Data (Continuous, Categorical, Distributions, Skewness). *Introducing, Designing and Conducting Research for Paramedics*, p.115.
 
 **Ning Y**, Ong MEH, Chakraborty B, Goldstein BA, Ting DSW, Vaughan R, and Liu N (2022). [Shapley variable importance cloud for interpretable machine learning](https://doi.org/10.1016/j.patter.2022.100452). *Patterns* 3(4):100452.
 - R package: [ShapleyVIC: Shapley Variable Importance Cloud for Interpretable Machine Learning](https://github.com/nliulab/ShapleyVIC)
