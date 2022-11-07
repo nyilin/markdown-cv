@@ -54,6 +54,7 @@ See [my Google Scholar page](https://scholar.google.com/citations?user=T7M0MMIAA
 `2022`
 
 Saffari SE#, **Ning Y**#, Xie F, Chakraborty B, Volovici V, Vaughan R, Ong MEH, Liu N (2021). [AutoScore-Ordinal: An Interpretable Machine Learning Framework for Generating Scoring Models for Ordinal Outcomes](https://doi.org/10.1186/s12874-022-01770-y). *BMC Medical Research Methodology* 22:286. (#: equal contribution)
+- R package: [AutoScore: An Interpretable Machine Learning-Based Automatic Clinical Score Generator](https://nliulab.github.io/AutoScore/)
 
 **Ning Y**, Ong MEH, Chakraborty B, Goldstein BA, Ting DSW, Vaughan R, and Liu N (2022). [Shapley variable importance cloud for interpretable machine learning](https://doi.org/10.1016/j.patter.2022.100452). *Patterns* 3(4):100452.
 - R package: [ShapleyVIC: Shapley Variable Importance Cloud for Interpretable Machine Learning](https://github.com/nliulab/ShapleyVIC)
