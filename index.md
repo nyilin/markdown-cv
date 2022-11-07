@@ -53,6 +53,8 @@ See [my Google Scholar page](https://scholar.google.com/citations?user=T7M0MMIAA
 
 `2022`
 
+Saffari SE#, **Ning Y**#, Xie F, Chakraborty B, Volovici V, Vaughan R, Ong MEH, Liu N (2021). [AutoScore-Ordinal: An Interpretable Machine Learning Framework for Generating Scoring Models for Ordinal Outcomes](https://doi.org/10.1186/s12874-022-01770-y). *BMC Medical Research Methodology* 22:286. (#: equal contribution)
+
 **Ning Y**, Ong MEH, Chakraborty B, Goldstein BA, Ting DSW, Vaughan R, and Liu N (2022). [Shapley variable importance cloud for interpretable machine learning](https://doi.org/10.1016/j.patter.2022.100452). *Patterns* 3(4):100452.
 - R package: [ShapleyVIC: Shapley Variable Importance Cloud for Interpretable Machine Learning](https://github.com/nliulab/ShapleyVIC)
 
@@ -79,8 +81,6 @@ Liu N, Wnent J, Lee JW, **Ning Y**, Ho AF, Siddiqui FJ, Lim SL, Chia MY, Tiah L,
 Liu N, Liu M, Chen X, **Ning Y**, Lee JW, Siddiqui FJ, Saffari SE, Ho AFW, Shin SD, Ma MHM, Tanaka H, Ong MEH, PAROS Clinical Research Network Investigators (2022). [Development and validation of an interpretable prehospital return of spontaneous circulation (P-ROSC) score for patients with out-of-hospital cardiac arrest using machine learning: A retrospective study](https://doi.org/10.1016/j.eclinm.2022.101422). *eClinicalMedicine*, 48:101422.
 
 `2021`
-
-Saffari SE#, **Ning Y**#, Xie F, Chakraborty B, Volovici V, Vaughan R, Ong MEH, Liu N (2021). AutoScore-Ordinal: An Interpretable Machine Learning Framework for Generating Scoring Models for Ordinal Outcomes. *arXiv preprint*, arXiv:2202.08407. (#: equal contribution)
 
 Chen Y#, **Ning Y**#, Thomas P, Salloway MK, Tan MLS, Tai ES, Kao SL, and Tan CS (2021). [An open source tool to compute measures of inpatient glycemic control: translating from healthcare analytics research to clinical quality improvement](https://doi.org/10.1093/jamiaopen/ooab033), *JAMIA Open*, 4(2): ooab033. (#: equal contribution)
 - R-Shiny app: [The QcDM (Quality care for Diabetes Mellitus) Project](https://github.com/nyilin/QcDM_Project)
@@ -162,6 +162,6 @@ analyses](https://www.summerschoolbicocca.com/statisticalps2018.php), Bicocca Su
 
 <!-- ### Footer
 
-Last updated: Sep 2022 -->
+Last updated: Nov 2022 -->
 
 
