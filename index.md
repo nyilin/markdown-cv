@@ -53,7 +53,7 @@ See [my Google Scholar page](https://scholar.google.com/citations?user=T7M0MMIAA
 
 `2023`
 
-Deng X, **Ning Y**, Saffari SE, Xiao B, Niu C, Ng SYE, Chia N, Choi X, Heng DL, Tan YJ, Ng E, Xu Z, Tay KY, Au WL, Ng A, Tan EK, Liu N, and Tan LCS (2023). [Identifying clinical features and blood biomarkers associated with mild cognitive impairment in Parkinson's Disease using machine learning](https://doi.org/10.1111/ene.15785). *European Journal of Neurology* 00:1–9.
+Deng X#, **Ning Y**#, Saffari SE, Xiao B, Niu C, Ng SYE, Chia N, Choi X, Heng DL, Tan YJ, Ng E, Xu Z, Tay KY, Au WL, Ng A, Tan EK, Liu N, and Tan LCS (2023). [Identifying clinical features and blood biomarkers associated with mild cognitive impairment in Parkinson's Disease using machine learning](https://doi.org/10.1111/ene.15785). *European Journal of Neurology* 00:1–9. (#: equal contribution)
 
 `2022`
 
