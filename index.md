@@ -53,6 +53,13 @@ See [my Google Scholar page](https://scholar.google.com/citations?user=T7M0MMIAA
 
 `2023`
 
+**Ning Y**, Volovici V, Ong ME, Goldstein BA, Liu N. [A roadmap to fair and trustworthy prediction model validation in healthcare](https://arxiv.org/abs/2304.03779). arXiv preprint arXiv:2304.03779. 
+
+Liu M#, **Ning Y**#, Teixayavong S, Mertens M, Xu J, Ting DS, Cheng LT, Ong JC, Teo ZL, Tan TF, Narrendar RC, Wang F, Celi LA, Ong MEH, and Liu N. [Towards clinical AI fairness: A translational perspective](https://arxiv.org/abs/2304.13493). *arXiv preprint* arXiv:2304.13493. (#: equal contribution)
+
+Xie F#, **Ning Y**#, Liu M, Li S, Saffari SE, Yuan H, Volovici V, Ting DSW, Goldstein BA, Ong MEH, Vaughan R, Chakraborty B, and Liu N (2023). [A universal AutoScore framework to develop interpretable scoring systems for predicting common types of clinical outcomes](https://doi.org/10.1016/j.xpro.2023.102302). *STAR Protocols* 4(2):102302. (#: equal contribution)
+- R package: [AutoScore: An Interpretable Machine Learning-Based Automatic Clinical Score Generator](https://nliulab.github.io/AutoScore/)
+
 Deng X#, **Ning Y**#, Saffari SE, Xiao B, Niu C, Ng SYE, Chia N, Choi X, Heng DL, Tan YJ, Ng E, Xu Z, Tay KY, Au WL, Ng A, Tan EK, Liu N, and Tan LCS (2023). [Identifying clinical features and blood biomarkers associated with mild cognitive impairment in Parkinson's Disease using machine learning](https://doi.org/10.1111/ene.15785). *European Journal of Neurology* 00:1–9. (#: equal contribution)
 
 `2022`
@@ -168,6 +175,6 @@ analyses](https://www.summerschoolbicocca.com/statisticalps2018.php), Bicocca Su
 
 <!-- ### Footer
 
-Last updated: Mar 2023 -->
+Last updated: May 2023 -->
 
 
