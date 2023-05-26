@@ -53,31 +53,33 @@ See [my Google Scholar page](https://scholar.google.com/citations?user=T7M0MMIAA
 
 `2023`
 
-**Ning Y**, Volovici V, Ong ME, Goldstein BA, Liu N. [A roadmap to fair and trustworthy prediction model validation in healthcare](https://arxiv.org/abs/2304.03779). arXiv preprint arXiv:2304.03779. 
+**Ning Y**, Volovici V, Ong ME, Goldstein BA, and Liu N (2023). [A roadmap to fair and trustworthy prediction model validation in healthcare](https://arxiv.org/abs/2304.03779). *arXiv preprint* arXiv:2304.03779. 
 
-Liu M#, **Ning Y**#, Teixayavong S, Mertens M, Xu J, Ting DS, Cheng LT, Ong JC, Teo ZL, Tan TF, Narrendar RC, Wang F, Celi LA, Ong MEH, and Liu N. [Towards clinical AI fairness: A translational perspective](https://arxiv.org/abs/2304.13493). *arXiv preprint* arXiv:2304.13493. (#: equal contribution)
+Liu M#, **Ning Y**#, Teixayavong S, Mertens M, Xu J, Ting DS, Cheng LT, Ong JC, Teo ZL, Tan TF, Narrendar RC, Wang F, Celi LA, Ong MEH, and Liu N (2023). [Towards clinical AI fairness: A translational perspective](https://arxiv.org/abs/2304.13493). *arXiv preprint* arXiv:2304.13493. (#: equal contribution)
 
 Xie F#, **Ning Y**#, Liu M, Li S, Saffari SE, Yuan H, Volovici V, Ting DSW, Goldstein BA, Ong MEH, Vaughan R, Chakraborty B, and Liu N (2023). [A universal AutoScore framework to develop interpretable scoring systems for predicting common types of clinical outcomes](https://doi.org/10.1016/j.xpro.2023.102302). *STAR Protocols* 4(2):102302. (#: equal contribution)
-- R package: [AutoScore: An Interpretable Machine Learning-Based Automatic Clinical Score Generator](https://nliulab.github.io/AutoScore/)
+- **R package:** [AutoScore: An Interpretable Machine Learning-Based Automatic Clinical Score Generator](https://nliulab.github.io/AutoScore/)
 
 Deng X#, **Ning Y**#, Saffari SE, Xiao B, Niu C, Ng SYE, Chia N, Choi X, Heng DL, Tan YJ, Ng E, Xu Z, Tay KY, Au WL, Ng A, Tan EK, Liu N, and Tan LCS (2023). [Identifying clinical features and blood biomarkers associated with mild cognitive impairment in Parkinson's Disease using machine learning](https://doi.org/10.1111/ene.15785). *European Journal of Neurology* 00:1–9. (#: equal contribution)
+
+Li S, **Ning Y**, Ong ME, Chakraborty B, Hong C, Xie F, Yuan H, Liu M, Buckland DM, Chen Y, and Liu N (2023). [FedScore: A privacy-preserving framework for federated scoring system development](https://arxiv.org/abs/2303.00282). *arXiv preprint* arXiv:2303.00282.
 
 `2022`
 
 **Ning Y**, Ong MEH, Chakraborty B, Goldstein BA, Ting DSW, Vaughan R, and Liu N (2022). [Shapley variable importance cloud for interpretable machine learning](https://doi.org/10.1016/j.patter.2022.100452). *Patterns* 3(4):100452.
-- R package: [ShapleyVIC: Shapley Variable Importance Cloud for Interpretable Machine Learning](https://github.com/nliulab/ShapleyVIC)
+- **Python library + R package:** [ShapleyVIC: Shapley Variable Importance Cloud for Interpretable Machine Learning](https://github.com/nliulab/ShapleyVIC)
 
 **Ning Y**, Li S, Ong ME, Xie F, Chakraborty B, Ting DS, Liu N (2022). [A novel interpretable machine learning system to generate clinical risk scores: An application for predicting early mortality or unplanned readmission in a retrospective cohort study](https://doi.org/10.1371/journal.pdig.0000062). *PLOS Digit Health* 1(6): e0000062. 
-- Press release: [Improving Risk Scores With Machine Learning](https://digitalhealthwire.com/newsletter/improving-risk-scores-ribbon-turquoise/)
+- **Press release:** [Improving Risk Scores With Machine Learning](https://digitalhealthwire.com/newsletter/improving-risk-scores-ribbon-turquoise/)
 
 Saffari SE#, **Ning Y**#, Xie F, Chakraborty B, Volovici V, Vaughan R, Ong MEH, Liu N (2021). [AutoScore-Ordinal: An Interpretable Machine Learning Framework for Generating Scoring Models for Ordinal Outcomes](https://doi.org/10.1186/s12874-022-01770-y). *BMC Medical Research Methodology* 22:286. (#: equal contribution)
-- R package: [AutoScore: An Interpretable Machine Learning-Based Automatic Clinical Score Generator](https://nliulab.github.io/AutoScore/)
+- **R package:** [AutoScore: An Interpretable Machine Learning-Based Automatic Clinical Score Generator](https://nliulab.github.io/AutoScore/)
 
 **Ning Y**, Lam A, Reilly M (2022). [Estimating risk ratio from any standard epidemiological design by doubling the cases](https://doi.org/10.1186/s12874-022-01636-3). *BMC Medical Research Methodology*, 22:157.
-- R package: [DoublingOfCases](https://github.com/nyilin/DoublingOfCases)
+- **R package:** [DoublingOfCases: Estimating Risk Ratio from Any Standard Epidemiological Design by Doubling the Cases](https://github.com/nyilin/DoublingOfCases)
 
 Liu N, **Ning Y**, Ong ME, Saffari SE, Ryu HH, Kajino K, Lin CH, Karim SA, Rao GR, Ho AFW, Lim SL (2022). [Gender disparities among adult recipients of layperson bystander cardiopulmonary resuscitation by location of cardiac arrest in Pan-Asian communities: A registry-based study](https://doi.org/10.1016/j.eclinm.2022.101293). *eClinicalMedicine*, 44:101293.
-- Press release: [Women who suffer from an out-of-hospital cardiac arrest are less likely to receive CPR from a bystander](https://www.duke-nus.edu.sg/about/media/media-releases/women-less-likely-to-receive-cpr-from-bystanders)
+- **Press release:** [Women who suffer from an out-of-hospital cardiac arrest are less likely to receive CPR from a bystander](https://www.duke-nus.edu.sg/about/media/media-releases/women-less-likely-to-receive-cpr-from-bystanders)
 
 Liu M, **Ning Y**, Yuan H, Ong MEH, Liu N (2022). Balanced background and explanation data are needed in explaining deep learning models with SHAP: An empirical study on clinical decision making. *arXiv preprint*, arXiv:2206.04050
 
@@ -96,16 +98,16 @@ Liu N, Liu M, Chen X, **Ning Y**, Lee JW, Siddiqui FJ, Saffari SE, Ho AFW, Shin 
 `2021`
 
 Chen Y#, **Ning Y**#, Thomas P, Salloway MK, Tan MLS, Tai ES, Kao SL, and Tan CS (2021). [An open source tool to compute measures of inpatient glycemic control: translating from healthcare analytics research to clinical quality improvement](https://doi.org/10.1093/jamiaopen/ooab033), *JAMIA Open*, 4(2): ooab033. (#: equal contribution)
-- R-Shiny app: [The QcDM (Quality care for Diabetes Mellitus) Project](https://github.com/nyilin/QcDM_Project)
+- **R-Shiny app:** [The QcDM (Quality care for Diabetes Mellitus) Project](https://github.com/nyilin/QcDM_Project)
 
 **Ning Y**, Ho PJ, Støer NC, Lim KK, Wee HL, Hartman M, Reilly M, and Tan CS (2021). [A New Procedure to Assess When Estimates from the Cumulative Link Model Can Be Interpreted as Differences for Ordinal Scales in Quality of Life Studies](https://www.dovepress.com/a-new-procedure-to-assess-when-estimates-from-the-cumulative-link-mode-peer-reviewed-fulltext-article-CLEP). *Clinical Epidemiology*, 13: 53–65. 
 
 `2020`
 **Ning Y**, Tan CS, Maraki A, Ho PJ, Hodgins S, Comasco E, Nilsson KW, Wagner P, Khoo EYH, Tai ES, Kao SL, Hartman M, Reilly M, and Støer NC (2020). [Handling ties in continuous outcomes for confounder adjustment with rank-ordered logit and its application to ordinal outcomes](https://doi.org/10.1177%2F0962280219837656). *Statistical Methods in Medical Research*, 29(2):437-454. 
-- R package: [ROlogit: Fit Rank-Ordered Logit (RO-Logit) Model](https://github.com/nyilin/ROlogit)
+- **R package:** [ROlogit: Fit Rank-Ordered Logit (RO-Logit) Model](https://github.com/nyilin/ROlogit)
 
 **Ning Y**, Støer NC, Ho PJ, Kao SL, Ngiam KY, Khoo EYH, Lee SC, Tai ES, Hartman M, Reilly M, and Tan CS (2020). [Robust estimation of the effect of an exposure on the change in a continuous outcome](https://doi.org/10.1186/s12874-020-01027-6). *BMC Medical Research Methodology*. 2020 Dec;20(1):1-1. 
-- R package: [cprobit: Conditional Probit Model for Analysing Continuous Outcomes](https://github.com/nyilin/cprobit)
+- **R package:** [cprobit: Conditional Probit Model for Analysing Continuous Outcomes](https://github.com/nyilin/cprobit)
 
 Chen B, Bernard JY, Padmapriya N, **Ning Y**, Cai S, Lança C, Tan KH, Yap F, Chong YS, Shek L, Godfrey KM, Saw SM, Chan SY, Eriksson JG, Tan CS, and Müller-Riemenschneider, F (2020). [Associations between early-life screen viewing and 24 hour movement behaviours: findings from a longitudinal birth cohort study](https://doi.org/10.1016/S2352-4642(19)30424-9). *The Lancet Child & Adolescent Health*, 4(3):201-209. 
 
@@ -133,9 +135,6 @@ AutoScore-Ordinal: An interpretable machine learning framework for generating sc
 `2021`
 Weighted analyses of survival outcomes under complex study designs: An R implementation. *14th International Conference of the ERCIM WG on Computational and Methodological Statistics, invited oral presentation*
 
-`2021`
-AutoScore-Ordinal: An Interpretable Machine Learning Framework for Generating Scoring Models for Ordinal Outcomes. *The 4th World Laureates Forum, poster presentation*
-
 `2019`
 Conditional probit model for robust inference on change in continuous outcomes. *40th Annual Conference of the International Society for Clinical Biostatistics, oral presentation*
 
@@ -145,8 +144,6 @@ Handling ties in ranks in the rank-ordered logit model. *The Joint International
 ### Statistical Software
 
 [SamplingDesignTools](https://github.com/nyilin/SamplingDesignTools). *Author of the R package that implements tools for working with various epidemiological study designs for studies of binary and survival outcomes.*
-
-[DoublingOfCases](https://github.com/nyilin/DoublingOfCases). *Author of the R package that implements the doubling-of-cases approach to estimate relative risk in studies of binary outcomes without assuming rare events.*
 
 
 ## Research Experience
