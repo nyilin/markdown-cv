@@ -53,16 +53,20 @@ See [my Google Scholar page](https://scholar.google.com/citations?user=T7M0MMIAA
 
 `2023`
 
-**Ning Y**, Volovici V, Ong ME, Goldstein BA, and Liu N (2023). [A roadmap to fair and trustworthy prediction model validation in healthcare](https://arxiv.org/abs/2304.03779). *arXiv preprint* arXiv:2304.03779. 
+Liu M#, **Ning Y**#, Teixayavong S, Mertens M, Xu J, Ting DS, Cheng LT, Ong JC, Teo ZL, Tan TF, Narrendar RC, Wang F, Celi LA, Ong MEH, and Liu N (2023). [A translational perspective towards clinical AI fairness](https://doi.org/10.1038/s41746-023-00918-4). *npj Digital Medicine*, 6:172. (#: equal contribution)
 
-Liu M#, **Ning Y**#, Teixayavong S, Mertens M, Xu J, Ting DS, Cheng LT, Ong JC, Teo ZL, Tan TF, Narrendar RC, Wang F, Celi LA, Ong MEH, and Liu N (2023). [Towards clinical AI fairness: A translational perspective](https://arxiv.org/abs/2304.13493). *arXiv preprint* arXiv:2304.13493. (#: equal contribution)
+**Ning Y**, Volovici V, Ong ME, Goldstein BA, and Liu N (2023). [A roadmap to fair and trustworthy prediction model validation in healthcare](https://arxiv.org/abs/2304.03779). *arXiv preprint*, arXiv:2304.03779. 
 
-Xie F#, **Ning Y**#, Liu M, Li S, Saffari SE, Yuan H, Volovici V, Ting DSW, Goldstein BA, Ong MEH, Vaughan R, Chakraborty B, and Liu N (2023). [A universal AutoScore framework to develop interpretable scoring systems for predicting common types of clinical outcomes](https://doi.org/10.1016/j.xpro.2023.102302). *STAR Protocols* 4(2):102302. (#: equal contribution)
+Xie F#, **Ning Y**#, Liu M, Li S, Saffari SE, Yuan H, Volovici V, Ting DSW, Goldstein BA, Ong MEH, Vaughan R, Chakraborty B, and Liu N (2023). [A universal AutoScore framework to develop interpretable scoring systems for predicting common types of clinical outcomes](https://doi.org/10.1016/j.xpro.2023.102302). *STAR Protocols*, 4(2):102302. (#: equal contribution)
 - **R package:** [AutoScore: An Interpretable Machine Learning-Based Automatic Clinical Score Generator](https://nliulab.github.io/AutoScore/)
 
-Deng X#, **Ning Y**#, Saffari SE, Xiao B, Niu C, Ng SYE, Chia N, Choi X, Heng DL, Tan YJ, Ng E, Xu Z, Tay KY, Au WL, Ng A, Tan EK, Liu N, and Tan LCS (2023). [Identifying clinical features and blood biomarkers associated with mild cognitive impairment in Parkinson's Disease using machine learning](https://doi.org/10.1111/ene.15785). *European Journal of Neurology* 00:1–9. (#: equal contribution)
+Deng X#, **Ning Y**#, Saffari SE, Xiao B, Niu C, Ng SYE, Chia N, Choi X, Heng DL, Tan YJ, Ng E, Xu Z, Tay KY, Au WL, Ng A, Tan EK, Liu N, and Tan LCS (2023). [Identifying clinical features and blood biomarkers associated with mild cognitive impairment in Parkinson's Disease using machine learning](https://doi.org/10.1111/ene.15785). *European Journal of Neurology*, 00:1–9. (#: equal contribution)
 
-Li S, **Ning Y**, Ong ME, Chakraborty B, Hong C, Xie F, Yuan H, Liu M, Buckland DM, Chen Y, and Liu N (2023). [FedScore: A privacy-preserving framework for federated scoring system development](https://arxiv.org/abs/2303.00282). *arXiv preprint* arXiv:2303.00282.
+Li S, **Ning Y**, Ong ME, Chakraborty B, Hong C, Xie F, Yuan H, Liu M, Buckland DM, Chen Y, and Liu N (2023). [FedScore: A privacy-preserving framework for federated scoring system development](https://doi.org/10.1016/j.jbi.2023.104485). *Journal of Biomedical Informatics*, 146:104485.
+
+Liu M, Li S, Yuan H, Ong ME, **Ning Y**, Xie F, Saffari SE, Shang Y, Volovici V, Chakraborty B, and Liu N (2023). [Handling missing values in healthcare data: A systematic review of deep learning-based imputation techniques](https://doi.org/10.1016/j.artmed.2023.102587). *Artificial Intelligence in Medicine*, 2023 May 22:102587.
+
+Li S, Liu P, Nascimento GG, Wang X, Leite FRM, Chakraborty B, Hong C, **Ning Y**, Xie F, Teo ZL, Ting DSW, Haddadi H, Ong MEH, Peres MA, and Liu N (2023). [Federated and distributed learning applications for electronic health records and structured medical data: a scoping review](https://doi.org/10.1093/jamia/ocad170). *Journal of the American Medical Informatics Association*, 2023:ocad170.
 
 `2022`
 
@@ -172,6 +176,6 @@ analyses](https://www.summerschoolbicocca.com/statisticalps2018.php), Bicocca Su
 
 <!-- ### Footer
 
-Last updated: May 2023 -->
+Last updated: Oct 2023 -->
 
 
