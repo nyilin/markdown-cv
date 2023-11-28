@@ -53,6 +53,8 @@ See [my Google Scholar page](https://scholar.google.com/citations?user=T7M0MMIAA
 
 `2023`
 
+**Ning Y**#, Teixayavong S#, Shang Y, Savulescu J, Nagaraj V, Miao D, Mertens M, Ting DS, Ong JC, Liu M, Cao J, Dunn M, Vaughan R, Ong MEH, Sung JJY, Topol EJ, Liu N (2023). [Generative Artificial Intelligence in Healthcare: Ethical Considerations and Assessment Checklist](https://doi.org/10.48550/arXiv.2311.02107). *arXiv preprint*, arXiv:2311.02107.
+
 Liu M#, **Ning Y**#, Teixayavong S, Mertens M, Xu J, Ting DS, Cheng LT, Ong JC, Teo ZL, Tan TF, Narrendar RC, Wang F, Celi LA, Ong MEH, and Liu N (2023). [A translational perspective towards clinical AI fairness](https://doi.org/10.1038/s41746-023-00918-4). *npj Digital Medicine*, 6:172. (#: equal contribution)
 
 **Ning Y**, Volovici V, Ong ME, Goldstein BA, and Liu N (2023). [A roadmap to fair and trustworthy prediction model validation in healthcare](https://arxiv.org/abs/2304.03779). *arXiv preprint*, arXiv:2304.03779. 
@@ -176,6 +178,6 @@ analyses](https://www.summerschoolbicocca.com/statisticalps2018.php), Bicocca Su
 
 <!-- ### Footer
 
-Last updated: Oct 2023 -->
+Last updated: Nov 2023 -->
 
 
