@@ -54,8 +54,10 @@ See [my Google Scholar page](https://scholar.google.com/citations?user=T7M0MMIAA
 `2023`
 
 **Ning Y**#, Teixayavong S#, Shang Y, Savulescu J, Nagaraj V, Miao D, Mertens M, Ting DS, Ong JC, Liu M, Cao J, Dunn M, Vaughan R, Ong MEH, Sung JJY, Topol EJ, Liu N (2023). [Generative Artificial Intelligence in Healthcare: Ethical Considerations and Assessment Checklist](https://doi.org/10.48550/arXiv.2311.02107). *arXiv preprint*, arXiv:2311.02107.
+- **Live checklist:** [Transparent Reporting of Ethics for Generative AI: the TREGAI Checklist](https://github.com/nliulab/GenAI-Ethical-Checklist)
 
 Liu M#, **Ning Y**#, Teixayavong S, Mertens M, Xu J, Ting DS, Cheng LT, Ong JC, Teo ZL, Tan TF, Narrendar RC, Wang F, Celi LA, Ong MEH, and Liu N (2023). [A translational perspective towards clinical AI fairness](https://doi.org/10.1038/s41746-023-00918-4). *npj Digital Medicine*, 6:172. (#: equal contribution)
+- **Press release:** [Ensuring fairness of AI in healthcare requires cross-disciplinary collaboration](https://www.duke-nus.edu.sg/about/media/media-releases/ai-fairness-in-healthcare)
 
 **Ning Y**, Volovici V, Ong ME, Goldstein BA, and Liu N (2023). [A roadmap to fair and trustworthy prediction model validation in healthcare](https://arxiv.org/abs/2304.03779). *arXiv preprint*, arXiv:2304.03779. 
 
