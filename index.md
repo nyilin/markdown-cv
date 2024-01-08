@@ -55,8 +55,6 @@ See [my Google Scholar page](https://scholar.google.com/citations?user=T7M0MMIAA
 
 ***Viewpoint***
 
-<p style="color:#2d4e5e"><strong><em>Viewpoint</em></strong></p>
-
 **Ning Y**#, Teixayavong S#, Shang Y, Savulescu J, Nagaraj V, Miao D, Mertens M, Ting DS, Ong JC, Liu M, Cao J, Dunn M, Vaughan R, Ong MEH, Sung JJY, Topol EJ, Liu N (2023). [Generative Artificial Intelligence in Healthcare: Ethical Considerations and Assessment Checklist](https://doi.org/10.48550/arXiv.2311.02107). *arXiv preprint*, arXiv:2311.02107.
 - **Live checklist:** [Transparent Reporting of Ethics for Generative AI: the TREGAI Checklist](https://github.com/nliulab/GenAI-Ethical-Checklist)
 
