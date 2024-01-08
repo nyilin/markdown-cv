@@ -51,9 +51,9 @@ See [my Google Scholar page](https://scholar.google.com/citations?user=T7M0MMIAA
 
 ### Journals
 
-***AI Fairness & Ethics***
+`AI Fairness & Ethics`
 
-`Viewpoint`
+*Viewpoint*
 
 **Ning Y**#, Teixayavong S#, Shang Y, Savulescu J, Nagaraj V, Miao D, Mertens M, Ting DS, Ong JC, Liu M, Cao J, Dunn M, Vaughan R, Ong MEH, Sung JJY, Topol EJ, Liu N (2023). [Generative Artificial Intelligence in Healthcare: Ethical Considerations and Assessment Checklist](https://doi.org/10.48550/arXiv.2311.02107). *arXiv preprint*, arXiv:2311.02107.
 - **Live checklist:** [Transparent Reporting of Ethics for Generative AI: the TREGAI Checklist](https://github.com/nliulab/GenAI-Ethical-Checklist)
@@ -64,9 +64,9 @@ Liu M#, **Ning Y**#, Teixayavong S, Mertens M, Xu J, Ting DS, Cheng LT, Ong JC, 
 **Ning Y**, Volovici V, Ong ME, Goldstein BA, and Liu N (2023). [A roadmap to fair and trustworthy prediction model validation in healthcare](https://arxiv.org/abs/2304.03779). *arXiv preprint*, arXiv:2304.03779. 
 
 
-***Interpretable Machine Learning: Method***
+`Interpretable Machine Learning: Method`
 
-`Shapley Value`
+*Shapley Value*
 
 **Ning Y**, Ong MEH, Chakraborty B, Goldstein BA, Ting DSW, Vaughan R, and Liu N (2022). [Shapley variable importance cloud for interpretable machine learning](https://doi.org/10.1016/j.patter.2022.100452). *Patterns* 3(4):100452.
 - **Python library + R package:** [ShapleyVIC: Shapley Variable Importance Cloud for Interpretable Machine Learning](https://github.com/nliulab/ShapleyVIC)
@@ -75,7 +75,7 @@ Liu M#, **Ning Y**#, Teixayavong S, Mertens M, Xu J, Ting DS, Cheng LT, Ong JC, 
 
 Liu M, **Ning Y**, Yuan H, Ong MEH, Liu N (2022). [Balanced background and explanation data are needed in explaining deep learning models with SHAP: An empirical study on clinical decision making](https://doi.org/10.48550/arXiv.2206.04050). *arXiv preprint*, arXiv:2206.04050
 
-`Scoring System`
+*Scoring System*
 
 Xie F#, **Ning Y**#, Liu M, Li S, Saffari SE, Yuan H, Volovici V, Ting DSW, Goldstein BA, Ong MEH, Vaughan R, Chakraborty B, and Liu N (2023). [A universal AutoScore framework to develop interpretable scoring systems for predicting common types of clinical outcomes](https://doi.org/10.1016/j.xpro.2023.102302). *STAR Protocols*, 4(2):102302. (#: equal contribution)
 - **R package:** [AutoScore: An Interpretable Machine Learning-Based Automatic Clinical Score Generator](https://nliulab.github.io/AutoScore/)
@@ -93,26 +93,26 @@ Yuan H, Xie F, Ong MEH, **Ning Y**, Chee ML, Saffari SE, Abdullah HR, Goldstein 
 Li S, **Ning Y**, Ong ME, Chakraborty B, Hong C, Xie F, Yuan H, Liu M, Buckland DM, Chen Y, and Liu N (2023). [FedScore: A privacy-preserving framework for federated scoring system development](https://doi.org/10.1016/j.jbi.2023.104485). *Journal of Biomedical Informatics*, 146:104485.
 
 
-***Interpretable Machine Learning: Application***
+`Interpretable Machine Learning: Application`
 
-`Shapley Value`
+*Shapley Value*
 
 Deng X#, **Ning Y**#, Saffari SE, Xiao B, Niu C, Ng SYE, Chia N, Choi X, Heng DL, Tan YJ, Ng E, Xu Z, Tay KY, Au WL, Ng A, Tan EK, Liu N, and Tan LCS (2023). [Identifying clinical features and blood biomarkers associated with mild cognitive impairment in Parkinson's Disease using machine learning](https://doi.org/10.1111/ene.15785). *European Journal of Neurology*, 00:1–9. (#: equal contribution)
 
-`Scoring System`
+*Scoring System*
 
 Liu N, Liu M, Chen X, **Ning Y**, Lee JW, Siddiqui FJ, Saffari SE, Ho AFW, Shin SD, Ma MHM, Tanaka H, Ong MEH, PAROS Clinical Research Network Investigators (2022). [Development and validation of an interpretable prehospital return of spontaneous circulation (P-ROSC) score for patients with out-of-hospital cardiac arrest using machine learning: A retrospective study](https://doi.org/10.1016/j.eclinm.2022.101422). *eClinicalMedicine*, 48:101422.
 
 Xie F, Liu N, Yan L, **Ning Y**, Lim KK, Gong C, Kwan YH, Ho AF, Low LL, Chakraborty B, Ong MEH (2022). [Development and validation of an interpretable machine learning scoring tool for estimating time to emergency readmissions](https://doi.org/10.1016/j.eclinm.2022.101315). *eClinicalMedicine*, 1;45:101315.
 
-`General`
+*General*
 
 Liu N, Wnent J, Lee JW, **Ning Y**, Ho AF, Siddiqui FJ, Lim SL, Chia MY, Tiah L, Mao DR, Gräsner JT (2022). [Validation of the CaRdiac Arrest Survival Score (CRASS) for predicting good neurological outcome after out-of-hospital cardiac arrest in an Asian emergency medical service system](https://doi.org/10.1016/j.resuscitation.2022.04.028). *Resuscitation*. 176:42-50.
 
 
-***Biostatistics and Clinical Epidemiology***
+`Biostatistics and Clinical Epidemiology`
 
-`Method`
+*Method*
 
 **Ning Y**, Lam A, Reilly M (2022). [Estimating risk ratio from any standard epidemiological design by doubling the cases](https://doi.org/10.1186/s12874-022-01636-3). *BMC Medical Research Methodology*, 22:157.
 - **R package:** [DoublingOfCases: Estimating Risk Ratio from Any Standard Epidemiological Design by Doubling the Cases](https://github.com/nyilin/DoublingOfCases)
@@ -128,7 +128,7 @@ Chen Y#, **Ning Y**#, Thomas P, Salloway MK, Tan MLS, Tai ES, Kao SL, and Tan CS
 **Ning Y**, Støer NC, Ho PJ, Kao SL, Ngiam KY, Khoo EYH, Lee SC, Tai ES, Hartman M, Reilly M, and Tan CS (2020). [Robust estimation of the effect of an exposure on the change in a continuous outcome](https://doi.org/10.1186/s12874-020-01027-6). *BMC Medical Research Methodology*. 2020 Dec;20(1):1-1. 
 - **R package:** [cprobit: Conditional Probit Model for Analysing Continuous Outcomes](https://github.com/nyilin/cprobit)
 
-`Application`
+*Application*
 
 Li Y, Yip M, **Ning Y**, Chung J, Toh A, Leow C, Liu N, Ting DS, Schmetterer L, Saw SM, Jonas JB, Chia A, and Ang M (2023). [Topical Atropine for Childhood Myopia Control The Atropine Treatment Long-Term Assessment Study](https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2812372). *JAMA Ophthalmology*
 
@@ -138,7 +138,7 @@ Liu N, **Ning Y**, Ong ME, Saffari SE, Ryu HH, Kajino K, Lin CH, Karim SA, Rao G
 Chen B, Bernard JY, Padmapriya N, **Ning Y**, Cai S, Lança C, Tan KH, Yap F, Chong YS, Shek L, Godfrey KM, Saw SM, Chan SY, Eriksson JG, Tan CS, and Müller-Riemenschneider, F (2020). [Associations between early-life screen viewing and 24 hour movement behaviours: findings from a longitudinal birth cohort study](https://doi.org/10.1016/S2352-4642(19)30424-9). *The Lancet Child & Adolescent Health*, 4(3):201-209. 
 
 
-***Review and Perspective***
+`Review and Perspective`
 
 Liu M, Li S, Yuan H, Ong ME, **Ning Y**, Xie F, Saffari SE, Shang Y, Volovici V, Chakraborty B, and Liu N (2023). [Handling missing values in healthcare data: A systematic review of deep learning-based imputation techniques](https://doi.org/10.1016/j.artmed.2023.102587). *Artificial Intelligence in Medicine*, 22:102587.
 
