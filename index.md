@@ -13,7 +13,7 @@ Work email: yilin.ning AT duke-nus.edu.sg
 
 ## Currently
 
-Research Fellow @ Centre for Quantitative Medicine, Duke-NUS Medical School.
+Senior Research Fellow @ Centre for Quantitative Medicine, Duke-NUS Medical School.
 
 ### Specialized in
 
@@ -51,7 +51,7 @@ See [my Google Scholar page](https://scholar.google.com/citations?user=T7M0MMIAA
 
 ### Journals
 
-#### AI Fairness & Ethics
+**AI Fairness & Ethics**
 
 `Viewpoint`
 
@@ -63,7 +63,8 @@ Liu M#, **Ning Y**#, Teixayavong S, Mertens M, Xu J, Ting DS, Cheng LT, Ong JC, 
 
 **Ning Y**, Volovici V, Ong ME, Goldstein BA, and Liu N (2023). [A roadmap to fair and trustworthy prediction model validation in healthcare](https://arxiv.org/abs/2304.03779). *arXiv preprint*, arXiv:2304.03779. 
 
-#### Interpretable Machine Learning: Method
+
+**Interpretable Machine Learning: Method**
 
 `Shapley Value`
 
@@ -91,7 +92,8 @@ Yuan H, Xie F, Ong MEH, **Ning Y**, Chee ML, Saffari SE, Abdullah HR, Goldstein 
 
 Li S, **Ning Y**, Ong ME, Chakraborty B, Hong C, Xie F, Yuan H, Liu M, Buckland DM, Chen Y, and Liu N (2023). [FedScore: A privacy-preserving framework for federated scoring system development](https://doi.org/10.1016/j.jbi.2023.104485). *Journal of Biomedical Informatics*, 146:104485.
 
-#### Interpretable Machine Learning: Application
+
+**Interpretable Machine Learning: Application**
 
 `Shapley Value`
 
@@ -134,13 +136,15 @@ Liu N, **Ning Y**, Ong ME, Saffari SE, Ryu HH, Kajino K, Lin CH, Karim SA, Rao G
 
 Chen B, Bernard JY, Padmapriya N, **Ning Y**, Cai S, Lança C, Tan KH, Yap F, Chong YS, Shek L, Godfrey KM, Saw SM, Chan SY, Eriksson JG, Tan CS, and Müller-Riemenschneider, F (2020). [Associations between early-life screen viewing and 24 hour movement behaviours: findings from a longitudinal birth cohort study](https://doi.org/10.1016/S2352-4642(19)30424-9). *The Lancet Child & Adolescent Health*, 4(3):201-209. 
 
-#### Review and Perspective
+
+**Review and Perspective**
 
 Liu M, Li S, Yuan H, Ong ME, **Ning Y**, Xie F, Saffari SE, Shang Y, Volovici V, Chakraborty B, and Liu N (2023). [Handling missing values in healthcare data: A systematic review of deep learning-based imputation techniques](https://doi.org/10.1016/j.artmed.2023.102587). *Artificial Intelligence in Medicine*, 22:102587.
 
 Li S, Liu P, Nascimento GG, Wang X, Leite FRM, Chakraborty B, Hong C, **Ning Y**, Xie F, Teo ZL, Ting DSW, Haddadi H, Ong MEH, Peres MA, and Liu N (2023). [Federated and distributed learning applications for electronic health records and structured medical data: a scoping review](https://doi.org/10.1093/jamia/ocad170). *Journal of the American Medical Informatics Association*, 2023:ocad170.
 
 Xie F, Yuan H, **Ning Y**, Ong ME, Feng M, Hsu W, Chakraborty B, Liu N (2022). [Deep learning for temporal data representation in electronic health records: A systematic review of challenges and methodologies](https://doi.org/10.1016/j.jbi.2021.103980). *Journal of biomedical informatics*, 126:103980.
+
 
 ### Conference Presentations
 
@@ -161,9 +165,11 @@ Conditional probit model for robust inference on change in continuous outcomes. 
 `2018`
 Handling ties in ranks in the rank-ordered logit model. *The Joint International Society for Clinical Biostatistics and Australian Statistical Conference 2018, oral presentation*
 
+
 ### Statistical Software
 
 [SamplingDesignTools](https://github.com/nyilin/SamplingDesignTools). *Author of the R package that implements tools for working with various epidemiological study designs for studies of binary and survival outcomes.*
+
 
 ## Research Experience
 
@@ -192,4 +198,4 @@ analyses](https://www.summerschoolbicocca.com/statisticalps2018.php), Bicocca Su
 
 <!-- ### Footer
 
-Last updated: Dec 2023 -->
+Last updated: Jan 2024 -->
