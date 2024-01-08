@@ -51,7 +51,7 @@ See [my Google Scholar page](https://scholar.google.com/citations?user=T7M0MMIAA
 
 ### Journals
 
-**AI Fairness & Ethics**
+***AI Fairness & Ethics***
 
 `Viewpoint`
 
@@ -64,7 +64,7 @@ Liu M#, **Ning Y**#, Teixayavong S, Mertens M, Xu J, Ting DS, Cheng LT, Ong JC, 
 **Ning Y**, Volovici V, Ong ME, Goldstein BA, and Liu N (2023). [A roadmap to fair and trustworthy prediction model validation in healthcare](https://arxiv.org/abs/2304.03779). *arXiv preprint*, arXiv:2304.03779. 
 
 
-**Interpretable Machine Learning: Method**
+***Interpretable Machine Learning: Method***
 
 `Shapley Value`
 
@@ -93,7 +93,7 @@ Yuan H, Xie F, Ong MEH, **Ning Y**, Chee ML, Saffari SE, Abdullah HR, Goldstein 
 Li S, **Ning Y**, Ong ME, Chakraborty B, Hong C, Xie F, Yuan H, Liu M, Buckland DM, Chen Y, and Liu N (2023). [FedScore: A privacy-preserving framework for federated scoring system development](https://doi.org/10.1016/j.jbi.2023.104485). *Journal of Biomedical Informatics*, 146:104485.
 
 
-**Interpretable Machine Learning: Application**
+***Interpretable Machine Learning: Application***
 
 `Shapley Value`
 
@@ -109,7 +109,8 @@ Xie F, Liu N, Yan L, **Ning Y**, Lim KK, Gong C, Kwan YH, Ho AF, Low LL, Chakrab
 
 Liu N, Wnent J, Lee JW, **Ning Y**, Ho AF, Siddiqui FJ, Lim SL, Chia MY, Tiah L, Mao DR, Gräsner JT (2022). [Validation of the CaRdiac Arrest Survival Score (CRASS) for predicting good neurological outcome after out-of-hospital cardiac arrest in an Asian emergency medical service system](https://doi.org/10.1016/j.resuscitation.2022.04.028). *Resuscitation*. 176:42-50.
 
-#### Biostatistics and Clinical Epidemiology
+
+***Biostatistics and Clinical Epidemiology***
 
 `Method`
 
@@ -137,7 +138,7 @@ Liu N, **Ning Y**, Ong ME, Saffari SE, Ryu HH, Kajino K, Lin CH, Karim SA, Rao G
 Chen B, Bernard JY, Padmapriya N, **Ning Y**, Cai S, Lança C, Tan KH, Yap F, Chong YS, Shek L, Godfrey KM, Saw SM, Chan SY, Eriksson JG, Tan CS, and Müller-Riemenschneider, F (2020). [Associations between early-life screen viewing and 24 hour movement behaviours: findings from a longitudinal birth cohort study](https://doi.org/10.1016/S2352-4642(19)30424-9). *The Lancet Child & Adolescent Health*, 4(3):201-209. 
 
 
-**Review and Perspective**
+***Review and Perspective***
 
 Liu M, Li S, Yuan H, Ong ME, **Ning Y**, Xie F, Saffari SE, Shang Y, Volovici V, Chakraborty B, and Liu N (2023). [Handling missing values in healthcare data: A systematic review of deep learning-based imputation techniques](https://doi.org/10.1016/j.artmed.2023.102587). *Artificial Intelligence in Medicine*, 22:102587.
 
