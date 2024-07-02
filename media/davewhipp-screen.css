@@ -177,6 +177,8 @@ a:hover {
 em {
 	/* font-weight: bold; */
 	font-style: italic;
+	/* added from print style: */
+	color: #528A8F; /*#2d4e5e;*/
 }
 
 strong {
