@@ -177,7 +177,7 @@ Handling ties in ranks in the rank-ordered logit model. *The Joint International
 
 ### Statistical Software
 
-[SamplingDesignTools](https://github.com/nyilin/SamplingDesignTools). *Author of the R package that implements tools for working with various epidemiological study designs for studies of binary and survival outcomes.*
+[SamplingDesignTools](https://github.com/nyilin/SamplingDesignTools). *Author of the R package that implements tools for working with various epidemiological study designs for studies of binary and survival outcomes. The package is cited in the book [Controlled Epidemiological Studies](https://doi.org/10.1201/9780429197574).*
 
 
 ## Research Experience
