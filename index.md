@@ -13,16 +13,16 @@ Work email: yilin.ning AT duke-nus.edu.sg
 
 ## Currently
 
-Senior Research Fellow @ Centre for Quantitative Medicine (CQM) & Duke-NUS AI + Medical Sciences Initiative (DAISI), Duke-NUS Medical School.
+Senior Research Fellow @ Centre for Biomedical Data Science (CBDS) & Duke-NUS AI + Medical Sciences Initiative (DAISI), Duke-NUS Medical School.
 
 ### Specialized in
 
-Biostatistics.
+Biostatistics, Data Science.
 
 
 ### Research interests
 
-Explainable AI, Biostatistics, Epidemiology, Statistical programming.
+Ethical AI, Biostatistics, Epidemiology, Statistical programming.
 
 
 ## Education
@@ -57,6 +57,9 @@ Ong JCL, **Ning Y**, Collins GS, et al (2025). [International partnership for go
 
 **Ning Y**, Liu X, Collins GS, et al (2024). [An ethics assessment tool for artificial intelligence implementation in healthcare: CARE-AI](https://doi.org/10.1038/s41591-024-03310-1). *Nature medicine*. 30 (11), 3038-3039
 
+### AI in Global Health
+
+Ong JCT, **Ning Y**, Yang R#, et al (2026). [Large language models in global health](https://doi.org/10.1038/s44360-025-00024-7). *Nature Health*. 1, 35-47
 
 ### AI in Medical Education
 
@@ -135,6 +138,10 @@ Li S, Wu Q, Zhou D, ..., **Ning Y**, ... , et al (2025). [FairFML: Fair federate
 Li S, **Ning Y**, Ong ME, Chakraborty B, et al (2023). [FedScore: A privacy-preserving framework for federated scoring system development](https://doi.org/10.1016/j.jbi.2023.104485). *Journal of Biomedical Informatics*, 146:104485.
 
 ### Generative AI
+
+Liao J, Li H, Yang R, ..., **Ning Y**, ..., et al (2026). Bias and Equity in LLM Applications for Healthcare: A Scoping Review. *SSRN*. ssrn.6053515
+
+Yang R, Li H, Xuan W, ..., **Ning Y**, ... , et al (2026). Toward Global Large Language Models in Medicine. *arXiv preprint*. arXiv:2601.02186
 
 Yang R, **Ning Y**, Keppo E, et al (2025). [Retrieval-augmented generation for generative artificial intelligence in health care](https://doi.org/10.1038/s44401-024-00004-1). *npj Health Systems*. 2 (1), 2
 
@@ -236,4 +243,4 @@ analyses](https://www.summerschoolbicocca.com/statisticalps2018.php), Bicocca Su
 
 <!-- ### Footer
 
-Last updated: Sep 2025 -->
+Last updated: Jan 2026 -->
