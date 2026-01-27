@@ -60,6 +60,7 @@ Ong JCL, **Ning Y**, Collins GS, et al (2025). [International partnership for go
 ### AI in Global Health
 
 Ong JCT, **Ning Y**, Yang R#, et al (2026). [Large language models in global health](https://doi.org/10.1038/s44360-025-00024-7). *Nature Health*. 1, 35-47
+- **Press release:** [AI tools improve diagnostics and patient outcome prediction in resource-limited healthcare settings](https://www.duke-nus.edu.sg/newshub/media-releases/ai-in-global-health)
 
 ### AI in Medical Education
 
