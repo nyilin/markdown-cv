@@ -53,6 +53,7 @@ See [my Google Scholar page](https://scholar.google.com/citations?user=T7M0MMIAA
 Ong JCL, **Ning Y**, Collins GS, et al (2025). [International partnership for governing generative artificial intelligence models in medicine](https://doi.org/10.1038/s41591-025-03787-4). *Nature Medicine*. 1-4
 
 **Ning Y**, Teixayavong S, Shang Y, et al (2024). [Generative artificial intelligence and ethical considerations in health care: a scoping review and ethics checklist](https://doi.org/10.1016/S2589-7500(24)00143-2). *The Lancet Digital Health*. 6 (11), e848-e856
+- *Web of Science Highly Cited Paper*
 - **Live checklist:** [Transparent Reporting of Ethics for Generative AI: the TREGAI Checklist](https://github.com/nliulab/GenAI-Ethical-Checklist)
 
 **Ning Y**, Liu X, Collins GS, et al (2024). [An ethics assessment tool for artificial intelligence implementation in healthcare: CARE-AI](https://doi.org/10.1038/s41591-024-03310-1). *Nature medicine*. 30 (11), 3038-3039
