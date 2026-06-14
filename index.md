@@ -65,7 +65,8 @@ Ong JCT, **Ning Y**, Yang R#, et al (2026). [Large language models in global hea
 
 ### AI in Medical Education
 
-**Ning Y**, Ong JCL, Cheng H, et al (2025). How Can Artificial Intelligence Transform the Training of Medical Students and Physicians?. *Available at SSRN*. 5217976
+**Ning Y**, Ong JCL, Cheng H, et al (2025). [How Can Artificial Intelligence Transform the Training of Medical Students and Physicians?](https://doi.org/10.1016/j.landig.2025.100900). *Lancet Digit Health*. 7(10):100900
+- **Press release:** [Collaborations key to unlocking the potential of AI in transforming medical education: Duke-NUS study](https://www.duke-nus.edu.sg/newshub/media-releases/ai-transforming-medical-education)
 
 ### Interpretable AI
 
